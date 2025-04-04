@@ -1,0 +1,1501 @@
+claim_id,policy_holder_id,claim_amount,incident_severity,claim_age_days,num_previous_claims,witness_present,police_report_available,is_fraud
+sdv-id-laPclK,sdv-id-YnJMYU,798.298307985564,Total Loss,163,3,True,True,False
+sdv-id-ZtBvvx,sdv-id-xjMOzD,603.8553985370859,Total Loss,73,2,True,True,False
+sdv-id-kgLkVN,sdv-id-mlddtK,323.25235259606325,Minor,345,4,False,True,False
+sdv-id-GFQDhF,sdv-id-FtAKdD,2294.0822316668737,Major,306,2,True,True,False
+sdv-id-RADAef,sdv-id-dKDWdH,1617.3457497142094,Major,271,4,True,False,True
+sdv-id-UieBuh,sdv-id-tmKxmn,323.25235259606325,Major,175,4,True,True,False
+sdv-id-VtRIZX,sdv-id-rThGOO,2110.3893570118053,Major,212,2,True,False,True
+sdv-id-jdREID,sdv-id-VgNwtD,2532.6919314163715,Total Loss,5,1,True,True,False
+sdv-id-WlTRov,sdv-id-nLIyuB,2687.7735894950624,Minor,247,2,False,True,False
+sdv-id-MyrYKO,sdv-id-gfvBcU,1986.8436118079244,Total Loss,167,4,False,False,False
+sdv-id-XbxpzL,sdv-id-HTrBnk,2825.851346015914,Major,5,2,True,False,True
+sdv-id-HnoLJl,sdv-id-BORbpN,3096.8961573320835,Major,246,2,True,True,False
+sdv-id-GkwQYP,sdv-id-hthzKl,1483.137448267405,Major,258,3,True,True,False
+sdv-id-StgpEO,sdv-id-DmxdDe,1075.348227789465,Total Loss,269,3,False,False,False
+sdv-id-CNHokF,sdv-id-trAWny,1595.4216014764543,Total Loss,82,3,True,True,False
+sdv-id-PHnMZl,sdv-id-aXPhcf,2577.0882526305804,Total Loss,240,2,False,True,False
+sdv-id-QpTcWd,sdv-id-qGwJaU,824.39051800631,Total Loss,17,2,True,False,False
+sdv-id-MdsDag,sdv-id-zPuQKC,2517.6797567586696,Total Loss,110,3,False,True,True
+sdv-id-OuZMwz,sdv-id-cGBXMi,4014.9471250181746,Major,161,3,True,False,False
+sdv-id-OmQlRt,sdv-id-tUdWuY,2422.6091477721297,Total Loss,230,2,True,False,False
+sdv-id-QstqLT,sdv-id-BDmNbx,1071.5129965556687,Minor,173,2,False,False,False
+sdv-id-JxPOfw,sdv-id-IgWgRu,2638.4827867080708,Major,204,2,False,False,True
+sdv-id-PfmjhI,sdv-id-ilZqge,910.5767727994604,Minor,241,3,False,True,False
+sdv-id-wglAOl,sdv-id-VpbERK,2373.0227861180383,Major,198,2,False,True,True
+sdv-id-BttVFr,sdv-id-PaaTZp,1083.2546450049738,Major,12,4,True,True,False
+sdv-id-AHTkTr,sdv-id-hYLzYl,1458.9563683864883,Minor,5,2,True,False,False
+sdv-id-OlhNaM,sdv-id-proYjq,1497.7121979534188,Total Loss,261,2,False,True,False
+sdv-id-RsOqpg,sdv-id-NuepPH,1582.8409083180363,Minor,92,3,False,False,False
+sdv-id-QOayUA,sdv-id-lIFJLc,1532.5947636097933,Major,118,3,False,True,True
+sdv-id-FSZxrT,sdv-id-EDygkr,1036.042749670616,Major,5,1,True,True,False
+sdv-id-XUfGaH,sdv-id-XiPhaT,2794.945789446941,Total Loss,178,1,False,True,False
+sdv-id-VUVsnE,sdv-id-KIEjXO,2876.1219882847336,Major,223,3,True,True,False
+sdv-id-hrHufD,sdv-id-DLgImi,1995.4015350709112,Minor,163,0,False,True,False
+sdv-id-XXclHu,sdv-id-EkTmBf,1321.2036003914677,Minor,5,2,True,False,False
+sdv-id-EVHvFf,sdv-id-yzLQCg,995.3666547340554,Minor,193,3,False,True,False
+sdv-id-HQopWh,sdv-id-XDpZHt,3256.9418286506707,Major,5,0,True,False,False
+sdv-id-MPlVZL,sdv-id-wRLCfO,2016.2352673930577,Major,122,3,True,True,False
+sdv-id-ZJWwkP,sdv-id-PuciGo,1661.2013907742087,Major,233,3,True,True,False
+sdv-id-TcClxr,sdv-id-IGZHLF,404.04482948180885,Total Loss,187,3,True,True,False
+sdv-id-azbMWv,sdv-id-tlOHfI,323.25235259606325,Minor,66,4,False,False,True
+sdv-id-SptcZv,sdv-id-gKAgQD,1675.3745520136144,Major,345,4,False,True,False
+sdv-id-ZduLls,sdv-id-CYXrgg,2061.369183673454,Minor,312,2,False,False,True
+sdv-id-ENaUwG,sdv-id-IEIhBs,1444.599041832958,Minor,205,3,False,False,False
+sdv-id-ZHsovQ,sdv-id-FoYUbK,3788.9993469309175,Major,103,3,True,True,True
+sdv-id-jROgfU,sdv-id-OUcdLV,1173.7913711717201,Minor,229,2,False,False,False
+sdv-id-xSlYzJ,sdv-id-xfaiFC,1706.7158451678647,Minor,335,1,False,False,False
+sdv-id-CtlKrz,sdv-id-bJKbgb,1111.5833383031204,Total Loss,5,3,True,True,False
+sdv-id-KpOIty,sdv-id-BsIBPO,2731.379498543388,Total Loss,250,1,False,False,False
+sdv-id-wtXWKd,sdv-id-XHafzO,1064.326969062301,Total Loss,255,2,False,True,False
+sdv-id-bfDKLM,sdv-id-Podzdr,2776.444312989172,Total Loss,265,1,False,True,True
+sdv-id-ooKpwO,sdv-id-yeSqJl,3351.903156436821,Major,70,1,False,True,False
+sdv-id-GLTLuB,sdv-id-oJLyYx,1547.5405414259944,Minor,204,1,True,False,False
+sdv-id-wVvkFz,sdv-id-zxNEzx,1981.8509169650106,Major,85,3,True,False,False
+sdv-id-KczSDQ,sdv-id-pYQvMJ,2604.0387971338837,Total Loss,345,2,False,True,False
+sdv-id-pCQwqu,sdv-id-LRbiOT,450.2654638256263,Major,112,4,True,False,False
+sdv-id-YxqFVu,sdv-id-XFBWkT,3036.4565600072983,Major,147,2,True,False,False
+sdv-id-IuajSb,sdv-id-gTRFKu,3198.08829533245,Minor,235,1,False,True,False
+sdv-id-oYWxjo,sdv-id-oiTfJe,323.25235259606325,Minor,199,4,False,True,False
+sdv-id-QUbmgW,sdv-id-HyoYwe,3087.2075370814205,Major,185,2,True,True,False
+sdv-id-QnYHxS,sdv-id-whDLCY,2344.9803833392134,Major,65,3,True,False,True
+sdv-id-vEoPWu,sdv-id-uOdfnd,2489.8374233900413,Minor,49,1,False,False,False
+sdv-id-wLBbRM,sdv-id-rzcpvu,2403.6417588023974,Minor,345,1,False,False,False
+sdv-id-ikhbTG,sdv-id-kIMEXk,2889.3251964505375,Total Loss,5,1,True,False,False
+sdv-id-dIwWOJ,sdv-id-FkemEE,729.4081954416204,Minor,192,4,True,False,False
+sdv-id-AglIww,sdv-id-NRdNkx,1044.7524681159994,Minor,202,2,False,True,False
+sdv-id-ekXqnX,sdv-id-NzqfjP,998.2691554377385,Major,112,4,True,False,False
+sdv-id-adzknS,sdv-id-HJaKDW,323.25235259606325,Total Loss,173,4,False,False,False
+sdv-id-xGFxxX,sdv-id-PICDVq,582.9668463976059,Minor,73,3,False,True,False
+sdv-id-BSXvPP,sdv-id-txjbFm,882.6013470848774,Total Loss,216,4,False,True,False
+sdv-id-dAucFR,sdv-id-rXmkiB,2831.9569315710473,Major,5,1,True,False,True
+sdv-id-MaHYYA,sdv-id-yIxXJs,1157.5336215906254,Minor,216,3,True,False,False
+sdv-id-rkSFEY,sdv-id-UopGKq,1493.582369429705,Minor,345,2,False,True,False
+sdv-id-Phuisr,sdv-id-azcRXY,2088.4653704278094,Total Loss,288,3,False,True,False
+sdv-id-HIUFhV,sdv-id-GXibZh,762.6757570505986,Minor,66,3,False,True,False
+sdv-id-bDKWuH,sdv-id-pUWcFq,1862.677697570965,Total Loss,96,3,False,False,False
+sdv-id-YKnjME,sdv-id-RuwXLJ,754.6654408391826,Total Loss,200,2,False,True,False
+sdv-id-oAsiIB,sdv-id-kzjRPT,323.25235259606325,Minor,189,4,False,False,False
+sdv-id-lHCzip,sdv-id-mUVjix,1629.696646835345,Total Loss,260,3,False,True,False
+sdv-id-UppffS,sdv-id-bchpmc,1428.3883798130546,Total Loss,123,3,True,False,False
+sdv-id-UMLYll,sdv-id-ENaXec,3085.512467960418,Major,65,3,True,False,False
+sdv-id-oLrMul,sdv-id-TBMlqV,1010.9114708471697,Major,160,3,True,True,False
+sdv-id-wZPaTq,sdv-id-cQpcER,2036.9610920922769,Total Loss,220,1,False,True,False
+sdv-id-nOCmAo,sdv-id-uToqGD,1984.2133971863784,Major,5,2,True,False,True
+sdv-id-ItPRuA,sdv-id-nvnoGo,4235.73851053777,Total Loss,130,1,False,True,False
+sdv-id-xVZYsR,sdv-id-BTcxbm,323.25235259606325,Minor,54,2,False,False,False
+sdv-id-QaYDwE,sdv-id-iqqrCI,4235.73851053777,Major,135,1,True,True,False
+sdv-id-oYmIlF,sdv-id-YvNQZo,815.2692336444259,Major,71,4,True,False,False
+sdv-id-qzAeyq,sdv-id-pEcnyX,921.2185668427752,Major,95,3,True,False,False
+sdv-id-MFQWQW,sdv-id-FIacuh,2942.957754350424,Total Loss,262,2,False,True,False
+sdv-id-quvaAB,sdv-id-xORIfs,1008.9717542264468,Minor,221,3,True,False,False
+sdv-id-tLeqWa,sdv-id-ibqqDg,323.25235259606325,Major,100,4,True,False,False
+sdv-id-dVBGln,sdv-id-yjrpcV,985.8110789490602,Minor,146,3,False,False,False
+sdv-id-AhfvmK,sdv-id-WamuHy,323.25235259606325,Major,224,4,True,True,True
+sdv-id-SkvBob,sdv-id-czLQfC,3746.7895464471303,Major,116,0,True,True,False
+sdv-id-MRdiWP,sdv-id-OyYDCV,3363.3063998073844,Major,345,3,False,True,False
+sdv-id-rJSOmh,sdv-id-epbPwB,2142.7292466286062,Minor,196,2,False,False,True
+sdv-id-bozcIG,sdv-id-tGidTa,3007.683350605732,Total Loss,99,2,False,True,False
+sdv-id-rtEwPk,sdv-id-ugMkbu,1415.8841694141133,Minor,167,2,False,False,False
+sdv-id-uuRqex,sdv-id-RJZual,497.4835918940637,Minor,162,1,False,False,True
+sdv-id-Qhigwb,sdv-id-sXlIDM,1950.3685500191953,Minor,211,2,False,False,False
+sdv-id-AmbsOI,sdv-id-VFeTem,2859.584464982249,Total Loss,159,1,False,False,True
+sdv-id-bcEvEk,sdv-id-anBjJd,925.1901773030792,Total Loss,345,3,False,False,False
+sdv-id-hJGAKO,sdv-id-hJusAr,323.25235259606325,Minor,278,4,False,True,False
+sdv-id-xTIzGc,sdv-id-bstizE,2461.5319819444394,Minor,22,1,True,False,True
+sdv-id-YYgoRr,sdv-id-jUgCqv,2351.904643507895,Total Loss,124,1,True,False,False
+sdv-id-iROeFk,sdv-id-ksILka,3108.0773855314756,Total Loss,327,1,False,True,False
+sdv-id-yjSLUn,sdv-id-kbvkUQ,1834.2179453274466,Total Loss,345,2,False,True,False
+sdv-id-nFJwLW,sdv-id-AYfhFt,2002.186607776722,Major,22,3,True,True,False
+sdv-id-lpIXQg,sdv-id-CvLTQN,2621.727752166207,Major,261,2,False,False,False
+sdv-id-CWVSoQ,sdv-id-DbEoMj,521.3661536515019,Major,254,4,True,True,False
+sdv-id-CQiLAZ,sdv-id-scTpub,810.4024394774133,Minor,86,2,True,False,False
+sdv-id-lgRqeK,sdv-id-fRbYyX,1652.528739238858,Minor,292,2,False,False,False
+sdv-id-SxZOXY,sdv-id-QCInGi,1562.95083971784,Major,46,3,True,True,False
+sdv-id-pFwuZL,sdv-id-ZxyWVp,3080.2696900299716,Major,261,1,False,False,False
+sdv-id-lXKFTy,sdv-id-EMBOVz,2099.9864142524425,Minor,5,1,False,True,True
+sdv-id-ADYgHM,sdv-id-Dyhkui,3172.6449243701627,Minor,5,0,True,False,True
+sdv-id-fdCLSe,sdv-id-xQCcKT,2986.1348371892645,Minor,118,2,False,False,False
+sdv-id-WcvVsD,sdv-id-nuFPRf,323.25235259606325,Major,43,4,True,True,True
+sdv-id-RWmFnF,sdv-id-guWbCD,2180.8113869298213,Total Loss,289,2,False,False,False
+sdv-id-zyQEei,sdv-id-zELDlJ,3876.7168306410213,Major,100,1,False,False,False
+sdv-id-sPJdtn,sdv-id-pFMttN,2958.4683680265302,Minor,15,0,False,True,True
+sdv-id-YckPhx,sdv-id-DBXZYL,467.6185120343689,Minor,92,2,False,False,True
+sdv-id-EJULEA,sdv-id-ahHMOX,1483.177850015398,Major,303,3,True,True,False
+sdv-id-VYyxEB,sdv-id-goxSDK,1235.3979375765662,Minor,167,2,False,False,False
+sdv-id-hLoocu,sdv-id-KVITVv,2290.8027568085095,Major,134,2,True,False,False
+sdv-id-fjTVLj,sdv-id-GimWXm,1381.3143661605272,Total Loss,137,4,False,False,False
+sdv-id-UFCbdw,sdv-id-LkqUIE,2366.2400455829434,Minor,75,0,False,False,False
+sdv-id-peAdOf,sdv-id-xBtVSg,1864.312978316046,Major,187,3,False,False,True
+sdv-id-wuwvmo,sdv-id-JujsSb,2363.2529825735437,Total Loss,345,4,False,False,False
+sdv-id-lIYzuf,sdv-id-XhOZYD,2181.7685302909754,Major,145,2,True,False,False
+sdv-id-wsBifU,sdv-id-bmSmmg,2069.729935933258,Total Loss,310,2,True,False,False
+sdv-id-USmoFI,sdv-id-ndfIPh,323.25235259606325,Minor,229,4,False,False,False
+sdv-id-nIAtWf,sdv-id-rhzRsd,1234.6323760109376,Major,242,4,False,True,False
+sdv-id-DrJXVc,sdv-id-chyDAG,1251.5833276600429,Minor,64,3,False,True,False
+sdv-id-ZbqVGi,sdv-id-zHMoTS,660.5030092057705,Major,175,4,True,False,False
+sdv-id-OSGYwO,sdv-id-iRJtMF,1752.3754152821366,Major,5,1,True,False,False
+sdv-id-vabmiR,sdv-id-TvkpyO,1272.67517346997,Total Loss,109,3,True,True,False
+sdv-id-ATYhXE,sdv-id-AooqPL,2027.7095349191095,Minor,178,2,False,False,False
+sdv-id-nKtVSl,sdv-id-HxmpAF,1845.443579102291,Major,144,3,True,True,False
+sdv-id-EqHcxA,sdv-id-ytFwEs,780.3241747696625,Major,320,3,True,False,False
+sdv-id-EBYoHi,sdv-id-FVmaYi,2331.9389902249245,Total Loss,5,1,True,False,False
+sdv-id-CcMePS,sdv-id-VVwVQa,1516.0705707914012,Minor,262,2,False,True,False
+sdv-id-mGAwWW,sdv-id-CppobB,2481.265300859484,Major,64,2,True,False,False
+sdv-id-nwKOyA,sdv-id-cLRaVX,2203.137817151404,Total Loss,327,2,False,True,False
+sdv-id-wrzekZ,sdv-id-VTqgIZ,2712.71926064581,Minor,191,0,False,False,False
+sdv-id-BooyPW,sdv-id-gSQSav,323.25235259606325,Major,49,4,True,True,False
+sdv-id-sirsEZ,sdv-id-RYmqps,1835.669458217408,Total Loss,242,3,False,False,False
+sdv-id-auJcKy,sdv-id-lgfaLN,2508.6836807054174,Total Loss,345,0,False,False,True
+sdv-id-wcPzDk,sdv-id-zCfcqj,3578.277330247959,Total Loss,55,1,True,True,False
+sdv-id-qYmOwe,sdv-id-EujBcJ,3103.3304136707857,Total Loss,5,0,True,False,False
+sdv-id-cmmYYF,sdv-id-KLQWfp,2842.529459807117,Major,55,1,True,True,False
+sdv-id-INXgZR,sdv-id-YjoIWW,573.2560660242616,Total Loss,161,4,True,False,False
+sdv-id-xkPrhb,sdv-id-qsdXbK,2258.4350892623966,Major,345,3,False,True,False
+sdv-id-RHxWwC,sdv-id-HtYYKN,3037.5106691858355,Major,260,2,True,True,False
+sdv-id-Gibjfb,sdv-id-NowEHi,1349.5036786953283,Major,268,4,True,False,False
+sdv-id-jVnIqD,sdv-id-CQDMsZ,3053.9318717290744,Major,138,1,False,True,False
+sdv-id-kkaPgq,sdv-id-asmoiy,929.1405179364749,Minor,342,2,False,False,False
+sdv-id-SbkjpZ,sdv-id-aJzjlo,323.25235259606325,Major,188,4,True,True,False
+sdv-id-DSeSZe,sdv-id-TjhLuU,2844.354757298296,Total Loss,150,1,True,True,False
+sdv-id-UGkKJf,sdv-id-Mzyxhr,1626.3847022750515,Minor,255,2,False,False,False
+sdv-id-aosNBL,sdv-id-gAKuus,1697.6586349468191,Total Loss,6,3,True,False,False
+sdv-id-GSpxVr,sdv-id-aCPYqs,3736.7821041526295,Total Loss,256,0,False,False,False
+sdv-id-vYFwqu,sdv-id-zKTvxf,1764.720311335445,Major,277,3,True,False,True
+sdv-id-nfREwy,sdv-id-jXXpkC,2654.656970978647,Major,333,2,True,True,False
+sdv-id-gBDFup,sdv-id-UCbUOa,629.4735090238908,Major,184,3,True,True,True
+sdv-id-mbEmAh,sdv-id-ACTocE,3313.6169075012363,Total Loss,25,1,False,False,False
+sdv-id-aVwaau,sdv-id-SYCWgJ,2173.3912354023355,Minor,154,2,False,True,False
+sdv-id-SBxooa,sdv-id-rKBJVL,2133.0922005874972,Major,129,3,True,False,True
+sdv-id-xyJjZY,sdv-id-jQYfKL,323.25235259606325,Total Loss,127,4,False,True,False
+sdv-id-DxApVM,sdv-id-VHAuQU,2984.907992131548,Total Loss,64,1,True,True,True
+sdv-id-OJzoUE,sdv-id-wICfen,549.8606678680358,Major,5,3,True,True,False
+sdv-id-fqULNr,sdv-id-ROEmDC,395.80714718935747,Total Loss,262,4,True,True,False
+sdv-id-UhDIaw,sdv-id-FJacKE,2325.8889063236893,Total Loss,343,3,False,True,False
+sdv-id-ClgpLq,sdv-id-EgMmrL,4235.73851053777,Major,23,1,False,True,False
+sdv-id-yezVcD,sdv-id-DvOzle,1935.0105596867736,Total Loss,5,1,True,True,False
+sdv-id-vdpaaO,sdv-id-bcmeTg,1580.1303248447036,Minor,230,2,True,False,False
+sdv-id-zZjVIX,sdv-id-zPHNDW,424.74785084349287,Major,193,4,True,False,False
+sdv-id-vAXpwo,sdv-id-oGzKIB,3031.12043211563,Major,5,0,True,False,False
+sdv-id-XXhZUX,sdv-id-DsCyJP,323.25235259606325,Minor,5,3,True,False,False
+sdv-id-eAHUbd,sdv-id-zTZVGz,323.25235259606325,Total Loss,274,4,True,False,False
+sdv-id-juUfsz,sdv-id-LHcuyD,1472.6218643124075,Total Loss,267,3,True,False,False
+sdv-id-NnZlum,sdv-id-ccQsbR,1690.837114278762,Total Loss,50,2,False,True,False
+sdv-id-iqQpqt,sdv-id-vgdaZK,2363.157605850697,Major,146,3,True,True,False
+sdv-id-XsIVDy,sdv-id-hPfGZG,2969.398925239914,Major,340,1,False,True,False
+sdv-id-vyZJRB,sdv-id-IpXyPP,1581.866023860453,Total Loss,120,3,True,True,False
+sdv-id-VRvHIC,sdv-id-PSYNXw,1652.9695288529667,Major,207,4,True,False,False
+sdv-id-gDKVPU,sdv-id-mylDAZ,2925.9832631000854,Major,10,2,True,True,False
+sdv-id-ikHCKD,sdv-id-dtEpGV,1347.801108017257,Major,17,4,True,True,False
+sdv-id-GQogCj,sdv-id-ORCeIG,1919.9712320945293,Major,112,1,True,True,False
+sdv-id-YcutoU,sdv-id-BHDQnR,1274.7663793699614,Total Loss,344,3,False,True,False
+sdv-id-wKVqPY,sdv-id-XyYrvK,1512.060830640628,Major,238,4,True,False,False
+sdv-id-xIUMGG,sdv-id-SuHkut,3728.5612570156472,Major,219,1,True,False,False
+sdv-id-uvuriG,sdv-id-ZhnIPz,989.1434118404675,Minor,181,4,False,True,False
+sdv-id-zDJMVy,sdv-id-bZGKfa,440.99910263135007,Major,172,3,True,False,False
+sdv-id-LAsGmG,sdv-id-KACRyg,717.5604490773023,Total Loss,13,2,True,True,False
+sdv-id-BlmwHy,sdv-id-nqNbcN,2337.7440849556533,Major,184,1,False,False,False
+sdv-id-dlAXuq,sdv-id-LaTKCr,2029.974368795524,Total Loss,320,3,False,True,False
+sdv-id-AvwTGF,sdv-id-gLWRHA,4235.73851053777,Major,43,0,True,True,False
+sdv-id-SCxjKb,sdv-id-tvGRCC,3663.410770132909,Total Loss,5,1,False,True,False
+sdv-id-lkToSf,sdv-id-Xlvadc,2849.4385330967543,Major,13,3,True,True,False
+sdv-id-lovsOd,sdv-id-JIogxa,661.8208089963671,Minor,335,4,False,True,False
+sdv-id-ofAVTS,sdv-id-EtszeJ,3150.851967790154,Total Loss,279,1,False,True,False
+sdv-id-nwSfVo,sdv-id-hwkhAq,2645.9382533226935,Major,249,3,True,False,True
+sdv-id-smmBbU,sdv-id-fXWQrC,4235.73851053777,Major,49,0,True,True,False
+sdv-id-PzoPXW,sdv-id-mrqHKc,1385.92749065966,Total Loss,92,2,True,False,True
+sdv-id-qjUngF,sdv-id-EiFrtT,2152.334641631078,Minor,119,1,False,False,False
+sdv-id-uFpyuK,sdv-id-clBCFe,1972.1393340393645,Minor,209,1,False,False,False
+sdv-id-pNhsDe,sdv-id-iyEvFO,543.648194383406,Total Loss,345,3,False,False,False
+sdv-id-CmMbaX,sdv-id-wOTcnk,2362.001231273665,Major,345,4,True,True,False
+sdv-id-GcZHvS,sdv-id-qLGiVB,1102.16043870393,Minor,345,3,False,False,False
+sdv-id-opCWEm,sdv-id-TmJTZD,1432.4173909496944,Total Loss,66,3,True,False,False
+sdv-id-LClumH,sdv-id-hCPmUX,2946.3422073603965,Major,88,1,True,True,False
+sdv-id-VWbxPE,sdv-id-xNSSLX,4014.574310995481,Total Loss,311,0,False,False,False
+sdv-id-BYejfR,sdv-id-quCYjg,3180.0929723171566,Major,64,2,True,False,False
+sdv-id-eCoZvE,sdv-id-yeewFR,1879.9087632690898,Major,176,3,True,False,True
+sdv-id-nVWIWk,sdv-id-sTKGOI,3538.4254856853804,Major,15,1,True,False,False
+sdv-id-nEMCIX,sdv-id-FPDkaQ,323.25235259606325,Total Loss,319,2,True,True,False
+sdv-id-YqAkip,sdv-id-nvLcVY,1791.1584288621098,Minor,345,3,False,True,False
+sdv-id-studlK,sdv-id-qnZxyM,953.2416343491934,Total Loss,222,4,False,True,False
+sdv-id-TCnWRQ,sdv-id-yTgdDT,2080.2149883155876,Total Loss,209,1,False,False,False
+sdv-id-MzbeBs,sdv-id-WFezxh,323.25235259606325,Minor,266,3,False,True,False
+sdv-id-CvVHCs,sdv-id-kjfgcS,2147.834321510157,Major,25,3,True,False,False
+sdv-id-jjHfdl,sdv-id-jAWYXV,3201.0480911959803,Major,147,1,True,False,True
+sdv-id-bDXbPc,sdv-id-BXFVza,360.1511657317592,Total Loss,345,4,False,True,False
+sdv-id-NOWtTQ,sdv-id-bsxzLp,3986.7166446103497,Minor,341,1,False,True,False
+sdv-id-wQCWxf,sdv-id-vBZCoM,1586.8503973701413,Total Loss,106,3,True,True,False
+sdv-id-tTDIwa,sdv-id-mJPzCN,1514.982605293337,Minor,5,1,True,False,False
+sdv-id-EDMFnU,sdv-id-cLXyzH,509.4722486079577,Major,182,4,True,False,False
+sdv-id-VCAuGB,sdv-id-qjlJAv,2320.4438837965386,Major,5,0,True,True,False
+sdv-id-NkcbpT,sdv-id-cOfwDy,3175.094337245833,Major,79,2,True,True,False
+sdv-id-KukGyJ,sdv-id-rroits,3301.8236774906422,Major,226,4,False,True,False
+sdv-id-fzAzbs,sdv-id-RgnLDT,3870.5956927072984,Major,160,2,True,True,False
+sdv-id-vNHaje,sdv-id-GbXxXO,1586.6944162114037,Major,162,2,True,True,False
+sdv-id-VTtZTk,sdv-id-OcKsuD,2951.940396470075,Major,177,2,True,True,False
+sdv-id-cTPzlz,sdv-id-xgdCKi,1058.026669386643,Major,345,4,True,False,False
+sdv-id-LJiRJa,sdv-id-UkcxZO,2929.751245664541,Minor,345,1,False,True,False
+sdv-id-BVKdQW,sdv-id-dhqRlm,3654.090246250429,Minor,264,0,False,False,False
+sdv-id-JVnolo,sdv-id-gWcFdE,3726.2644446091995,Major,5,1,True,False,False
+sdv-id-YGNlBk,sdv-id-daTiwV,3680.19227091881,Total Loss,345,2,False,True,False
+sdv-id-DRWGHa,sdv-id-lnUtQz,2511.528379850172,Minor,97,1,False,True,True
+sdv-id-usAyGX,sdv-id-mKgcpV,1775.4615374517884,Minor,204,2,False,True,False
+sdv-id-mKmhos,sdv-id-KPblqH,2402.3141993645295,Minor,277,2,False,False,False
+sdv-id-BTSjKl,sdv-id-ZOreNz,1809.922058372532,Major,231,3,False,True,False
+sdv-id-ECenTy,sdv-id-TVBCuX,1761.7027354842594,Total Loss,182,3,False,True,False
+sdv-id-eRWvjU,sdv-id-FTedaU,4013.1367830834024,Total Loss,146,1,False,False,False
+sdv-id-rBsArz,sdv-id-GqAZqR,1510.6410064113566,Major,77,4,True,True,False
+sdv-id-pfYwNL,sdv-id-FHqUqM,1819.8469946861378,Major,5,3,True,True,False
+sdv-id-pCtwBs,sdv-id-riIHuE,709.608981143765,Major,5,4,True,True,False
+sdv-id-ltUqny,sdv-id-RRyCsM,1447.884999182446,Minor,15,1,False,False,False
+sdv-id-lSjSEy,sdv-id-CBDDCv,2119.275375140565,Total Loss,98,2,True,False,False
+sdv-id-qdicNo,sdv-id-YuUdjX,3896.8390796078193,Total Loss,345,0,False,False,False
+sdv-id-NlXSsy,sdv-id-UHMXrW,1891.275094612266,Minor,115,1,False,True,True
+sdv-id-OPHynl,sdv-id-JdIuOR,516.6378533569159,Major,15,4,True,True,False
+sdv-id-oFBnUU,sdv-id-hBJnij,2303.8232906301937,Major,221,2,False,True,True
+sdv-id-bxnVSS,sdv-id-LJmMwL,1393.1412547702214,Major,345,4,False,True,False
+sdv-id-DfKZbm,sdv-id-aGRBOd,1515.6431577482927,Total Loss,345,4,False,True,False
+sdv-id-GbBdXu,sdv-id-UAMQiw,2627.863678772007,Minor,291,1,False,True,False
+sdv-id-Qwyfpv,sdv-id-TaGJsM,323.25235259606325,Major,173,4,False,True,False
+sdv-id-HqSJiA,sdv-id-nlKRiL,3052.5259194311734,Minor,272,2,True,False,False
+sdv-id-NMNXAy,sdv-id-PjddJh,3216.642321990499,Total Loss,181,0,False,False,False
+sdv-id-LQxEWW,sdv-id-LjpYhA,505.3606682558509,Total Loss,281,4,False,True,False
+sdv-id-fMOIiG,sdv-id-kcBNWh,921.585553136223,Total Loss,150,1,False,True,False
+sdv-id-oQYgOI,sdv-id-iksLuQ,1802.5479151884947,Minor,90,1,False,False,False
+sdv-id-LgGCfs,sdv-id-xZZbPm,3866.64225516936,Minor,345,1,False,False,False
+sdv-id-eNamKn,sdv-id-BEgcLX,2837.451988544809,Minor,189,3,False,False,False
+sdv-id-OkpRXq,sdv-id-jEjJwU,323.25235259606325,Major,22,4,True,True,False
+sdv-id-xHyRcj,sdv-id-BOJmFV,1010.5861167798623,Minor,109,2,True,True,False
+sdv-id-eMgaHX,sdv-id-KuELcT,323.25235259606325,Major,56,4,True,True,False
+sdv-id-RYRFzd,sdv-id-sCuMkh,2457.332595878427,Minor,218,1,False,False,False
+sdv-id-cOZJwc,sdv-id-THCQBM,1045.025660702809,Total Loss,225,4,True,False,False
+sdv-id-YihmET,sdv-id-nncywa,2916.4057650997584,Minor,238,1,False,True,False
+sdv-id-PPpTEx,sdv-id-TAvuvM,2212.8013235442945,Major,22,2,True,True,False
+sdv-id-eksnis,sdv-id-PJTZXg,949.2625867393228,Minor,69,2,False,True,False
+sdv-id-DMKPWD,sdv-id-fSvslX,323.25235259606325,Minor,37,3,True,False,False
+sdv-id-zeEhfr,sdv-id-HbDfMC,323.25235259606325,Major,89,4,True,False,True
+sdv-id-NdkWZA,sdv-id-vfGoGD,323.25235259606325,Total Loss,305,4,False,True,False
+sdv-id-FQPehx,sdv-id-vUFyfD,2298.9592790903,Major,157,2,True,True,False
+sdv-id-hNiEnU,sdv-id-yvTZsW,838.7112091276013,Major,164,4,True,False,False
+sdv-id-OaneFz,sdv-id-jOCSqT,1640.498995378645,Total Loss,5,3,True,True,False
+sdv-id-CBHNTC,sdv-id-Egvvwf,3615.295893425212,Minor,49,0,False,False,False
+sdv-id-gQWqpf,sdv-id-aNNcVb,1071.1393190766885,Minor,345,2,False,True,False
+sdv-id-IHymBq,sdv-id-Hmxgqh,2140.3319601231724,Total Loss,209,1,False,True,False
+sdv-id-avoJmY,sdv-id-UASXHV,2031.5094978135858,Total Loss,345,3,False,True,False
+sdv-id-hTDyfZ,sdv-id-JuxPpS,2306.1235490333493,Major,68,2,True,True,False
+sdv-id-HQxlEc,sdv-id-JgVsKV,2226.729084503264,Major,42,1,True,True,False
+sdv-id-ogxmGX,sdv-id-izHcQW,3498.5987487982948,Major,40,1,True,True,False
+sdv-id-dkbXig,sdv-id-BBNmnx,2688.716094623854,Major,345,2,False,True,False
+sdv-id-SIdAUo,sdv-id-KDJMOG,686.1528010528739,Major,154,4,False,False,False
+sdv-id-KGwepM,sdv-id-gdEDLu,646.7750517851246,Minor,294,4,False,True,False
+sdv-id-KCCdQT,sdv-id-MwpXqD,649.9230871454633,Total Loss,345,4,False,False,False
+sdv-id-MQTAKS,sdv-id-EXSCOa,871.9087449351512,Total Loss,295,2,True,False,False
+sdv-id-omuOwB,sdv-id-AEGykn,323.25235259606325,Major,17,4,True,False,False
+sdv-id-BSTfJK,sdv-id-WFUYdL,1576.5060745361986,Major,128,3,True,False,False
+sdv-id-WDnMpL,sdv-id-EqOcKh,1722.2412788979839,Total Loss,96,2,False,True,False
+sdv-id-jTpokh,sdv-id-ZcIjdr,323.25235259606325,Total Loss,221,4,True,False,True
+sdv-id-qdaOaw,sdv-id-hGYAZi,323.25235259606325,Total Loss,278,4,True,False,False
+sdv-id-yRlKcM,sdv-id-QVLcvy,2922.64000388179,Major,16,2,True,False,False
+sdv-id-vqFHNS,sdv-id-PGywHX,768.9060440316241,Minor,134,4,True,False,False
+sdv-id-AqjLOd,sdv-id-kIUJKQ,2526.993438981953,Major,19,2,False,True,False
+sdv-id-IAxlXi,sdv-id-UldImT,794.0701706124757,Total Loss,194,4,True,False,False
+sdv-id-KdsXpU,sdv-id-ibuRhi,376.2471504013647,Minor,47,4,False,True,False
+sdv-id-uSmppw,sdv-id-UEcHEH,437.4131603949188,Minor,142,3,False,False,False
+sdv-id-TmKBcq,sdv-id-zntGNt,2156.716104670179,Minor,89,0,False,True,False
+sdv-id-SNOAIE,sdv-id-IdmcYn,1925.3315076667361,Major,345,4,True,False,False
+sdv-id-yyUrUr,sdv-id-WTWliJ,3466.407402033502,Minor,247,0,False,False,False
+sdv-id-MeIPfU,sdv-id-sGnJSZ,1477.0457329363733,Major,345,4,True,False,True
+sdv-id-RzlZxS,sdv-id-gLqTRj,927.9039649040654,Minor,288,2,False,False,False
+sdv-id-reLohu,sdv-id-RoBKhn,2785.7508075218484,Total Loss,281,2,False,True,False
+sdv-id-MFZArG,sdv-id-bnQymB,680.5337383125843,Major,5,4,True,True,False
+sdv-id-dcTQNC,sdv-id-IwnUMn,1053.1704460511132,Major,5,3,True,False,True
+sdv-id-MnKbQL,sdv-id-jbanDf,1582.919118901916,Total Loss,142,4,False,True,False
+sdv-id-tdOiIK,sdv-id-JJfMlZ,1017.3211971206953,Total Loss,267,4,False,True,False
+sdv-id-NAInOo,sdv-id-GbfnEl,2163.232392904345,Minor,5,1,True,False,False
+sdv-id-PdjfkD,sdv-id-jViluC,1072.255017005185,Major,59,3,True,True,False
+sdv-id-SHQQVe,sdv-id-HzLdbb,1071.0674119064097,Total Loss,191,2,False,True,False
+sdv-id-UClnkG,sdv-id-diFgmy,1529.7130730320653,Total Loss,5,2,True,False,False
+sdv-id-FOFRGi,sdv-id-HJepgx,2662.545054016583,Minor,345,1,False,False,False
+sdv-id-NIdoXW,sdv-id-IdAYic,1762.163087487962,Major,345,4,False,False,False
+sdv-id-yNJseL,sdv-id-cDTmLd,372.69408679018693,Total Loss,110,3,True,True,True
+sdv-id-fdwvyR,sdv-id-SzuNYv,875.3837412736915,Minor,120,3,False,False,False
+sdv-id-IsZNcq,sdv-id-YOQMzb,323.25235259606325,Minor,202,4,False,False,False
+sdv-id-qqPsbt,sdv-id-RkRmxk,2404.1335798262335,Minor,5,1,False,False,False
+sdv-id-WQQxfF,sdv-id-Jldwar,2668.680404540336,Major,5,2,True,True,False
+sdv-id-eGLTGm,sdv-id-FYtFcJ,1987.6281911198207,Minor,193,1,False,False,False
+sdv-id-RfvRaH,sdv-id-riDoLL,1470.3932620725216,Major,345,2,True,False,False
+sdv-id-CNvCQa,sdv-id-XFSVdC,2279.427066892468,Total Loss,23,2,True,True,False
+sdv-id-HpQYyx,sdv-id-XdrSiu,547.4062725131737,Major,5,4,True,False,False
+sdv-id-MHjBZb,sdv-id-TpeXVW,2695.679164356373,Total Loss,289,2,False,False,False
+sdv-id-ydlRNF,sdv-id-PXaqxh,1421.3461419258356,Minor,219,3,False,False,False
+sdv-id-IrPVkA,sdv-id-DlaZos,323.25235259606325,Major,335,4,False,False,False
+sdv-id-gPCSrz,sdv-id-QAHiYO,3296.9190225384846,Total Loss,138,1,False,True,False
+sdv-id-xdzaIg,sdv-id-jRwGOW,1260.7010301108053,Minor,207,1,False,False,False
+sdv-id-fDTkGA,sdv-id-EpgKih,323.25235259606325,Minor,182,2,True,False,False
+sdv-id-fISyuN,sdv-id-FFqmsH,4017.7936011347992,Minor,57,0,False,False,False
+sdv-id-bWIFJj,sdv-id-WwDBFo,2402.0260050958095,Minor,169,1,False,True,False
+sdv-id-tzbAnp,sdv-id-FmdHJB,3140.5628253138766,Total Loss,158,1,True,False,False
+sdv-id-kvNSqM,sdv-id-FtGJHS,3265.7783622011357,Total Loss,178,2,False,True,True
+sdv-id-SBeBrk,sdv-id-MaKMNi,1736.3539770477803,Major,5,3,True,False,False
+sdv-id-lkOnnq,sdv-id-kIazVU,4235.73851053777,Major,137,0,True,True,False
+sdv-id-UQHLLZ,sdv-id-qXZmsT,2361.764676654441,Minor,267,1,False,True,False
+sdv-id-AMXyVB,sdv-id-BPXKBO,3328.307750551524,Major,5,1,True,True,False
+sdv-id-RbBgVU,sdv-id-koQzhB,1951.5421107226643,Major,29,3,False,True,False
+sdv-id-UvUnHC,sdv-id-GdJqvv,2834.4952491828844,Major,228,2,False,True,False
+sdv-id-tYvdBf,sdv-id-YDMgDj,1988.239053641791,Major,5,3,True,False,False
+sdv-id-YGsZLo,sdv-id-rVsJkb,323.25235259606325,Minor,170,3,False,True,False
+sdv-id-QJVMJB,sdv-id-wHLYJZ,3828.0863105136486,Total Loss,46,0,False,False,False
+sdv-id-lWhWro,sdv-id-RwMrDZ,3375.355456869356,Minor,164,0,False,False,False
+sdv-id-lvarZo,sdv-id-ThzEla,3845.494169626435,Total Loss,161,0,False,False,False
+sdv-id-qUjrhZ,sdv-id-TZtNft,1994.6964471430363,Minor,103,1,False,False,False
+sdv-id-tmidrl,sdv-id-edLAmx,1352.575730640482,Minor,118,2,False,True,False
+sdv-id-QYmqzl,sdv-id-PBtnni,2102.472834156104,Major,153,4,False,True,False
+sdv-id-xMQgUf,sdv-id-FhNNXb,323.25235259606325,Major,182,4,True,True,False
+sdv-id-gKmSvL,sdv-id-JBURWJ,3817.7857376567545,Major,165,1,True,True,False
+sdv-id-XRZedo,sdv-id-ComyKR,2585.335917570311,Total Loss,246,2,True,True,False
+sdv-id-DWKtzE,sdv-id-rnSjyl,2022.8681264247477,Major,165,2,True,False,False
+sdv-id-SXYHge,sdv-id-DCeehI,1501.2944751787209,Minor,190,1,False,False,False
+sdv-id-UGKxDK,sdv-id-bOoIla,2241.3986123540926,Major,38,2,True,False,False
+sdv-id-fjDQCH,sdv-id-UoSYYs,458.6986185375529,Minor,222,3,True,False,False
+sdv-id-VThuqS,sdv-id-MRGvBx,914.5157450788312,Minor,234,2,False,True,False
+sdv-id-VzUiRd,sdv-id-fIdzvX,1862.9671647633768,Total Loss,267,4,False,True,False
+sdv-id-dFcbGa,sdv-id-LAstZW,2360.2800248041644,Major,69,2,True,True,False
+sdv-id-lItvqc,sdv-id-uRzLvB,1472.6495740516461,Major,32,3,True,True,False
+sdv-id-ozHDyp,sdv-id-yXNWFN,3285.553476381948,Major,307,2,False,True,False
+sdv-id-KYAukB,sdv-id-xIPnsQ,676.4400962494913,Total Loss,277,4,False,True,False
+sdv-id-tIGoPB,sdv-id-evMXZt,3797.2063362981226,Major,5,1,True,True,False
+sdv-id-fXqurd,sdv-id-QRYqMw,1882.219675816734,Major,19,3,True,True,False
+sdv-id-nHwoJR,sdv-id-HvQRkw,323.25235259606325,Minor,5,3,False,False,False
+sdv-id-yfCvEe,sdv-id-YloKEJ,2011.0154640046044,Major,5,2,True,True,False
+sdv-id-mwTnBJ,sdv-id-lYGrlT,2694.0857737232145,Total Loss,243,2,True,False,False
+sdv-id-vzaKib,sdv-id-cyGIqp,2285.4351779684403,Major,41,2,True,False,True
+sdv-id-nJWFip,sdv-id-QyeSMM,1428.5652373534613,Major,266,4,True,True,False
+sdv-id-AFiKCU,sdv-id-gJvcYx,323.25235259606325,Total Loss,96,3,True,False,False
+sdv-id-vCGHqp,sdv-id-lxNPlg,323.25235259606325,Minor,103,3,True,False,False
+sdv-id-CzcZUI,sdv-id-ueDwYR,1866.042070526909,Major,113,1,True,False,False
+sdv-id-uIeFHS,sdv-id-oRdcdI,323.25235259606325,Major,106,4,True,False,True
+sdv-id-aXHIvA,sdv-id-xtQbAs,2383.3663871137223,Minor,244,3,False,False,False
+sdv-id-ZHqqxm,sdv-id-uwDgyY,2488.3831774302193,Minor,303,0,False,True,False
+sdv-id-rEMMeX,sdv-id-zMJDbw,669.460552690286,Major,150,4,False,False,False
+sdv-id-LnofrO,sdv-id-mnNBnk,2591.532303866724,Major,81,2,False,True,False
+sdv-id-ixUbvi,sdv-id-nXvdLo,323.25235259606325,Major,5,3,True,False,False
+sdv-id-MYjQsu,sdv-id-OmfyRY,565.5168401565056,Total Loss,143,3,False,False,False
+sdv-id-Dawnmy,sdv-id-weyVjx,934.0486583280974,Total Loss,215,2,False,True,False
+sdv-id-fXLSBM,sdv-id-qzcNhv,2046.7657756828798,Minor,172,2,True,False,False
+sdv-id-iiDQnL,sdv-id-UbxHtw,795.8263905110016,Minor,177,3,False,False,False
+sdv-id-FupvfJ,sdv-id-KAxlCT,2517.211967801139,Minor,200,1,False,False,False
+sdv-id-VoSNHl,sdv-id-rohSQp,1791.12786675099,Major,5,2,True,False,False
+sdv-id-qVBFyQ,sdv-id-UtjRFO,1606.4438975965575,Minor,271,2,False,False,True
+sdv-id-vIwxRF,sdv-id-KZgGzW,792.7818300215497,Major,187,4,False,True,False
+sdv-id-lWXopo,sdv-id-TdoMpa,959.2117269549783,Total Loss,42,2,True,False,True
+sdv-id-MSJLDE,sdv-id-IlUfcv,1169.9960207032038,Total Loss,263,3,False,False,False
+sdv-id-rXNilt,sdv-id-BjPcun,323.25235259606325,Major,345,3,False,False,False
+sdv-id-jIyRgH,sdv-id-mNPhJA,341.4605108593021,Major,194,4,False,False,True
+sdv-id-TpvpKj,sdv-id-FetPjl,1067.9171845209453,Minor,345,3,False,True,False
+sdv-id-cKssoV,sdv-id-ncTIXN,323.25235259606325,Major,17,4,True,True,False
+sdv-id-RAvqkn,sdv-id-aAYTbu,2701.321031879606,Major,58,3,True,True,False
+sdv-id-eosCFb,sdv-id-RTNCeN,628.3023479609385,Major,93,4,True,False,False
+sdv-id-dSJeBZ,sdv-id-nxFOtC,1502.6819351334275,Total Loss,235,4,True,True,False
+sdv-id-IDaYlY,sdv-id-qBJurC,3736.769653216627,Major,200,1,True,True,False
+sdv-id-tHsbst,sdv-id-GCuJOi,946.298267825371,Total Loss,227,3,True,True,False
+sdv-id-aTqxAI,sdv-id-NnflbH,1112.3993503394863,Major,234,3,False,True,False
+sdv-id-MMvfnS,sdv-id-tJgbHc,2661.6892484715086,Major,155,2,True,False,False
+sdv-id-SRvJAX,sdv-id-GeljCb,2898.7155590685406,Total Loss,273,2,False,True,False
+sdv-id-NrEvbW,sdv-id-dDSLXl,2496.508536558628,Total Loss,161,0,False,True,False
+sdv-id-Waokmh,sdv-id-sDmzeH,2774.5737205465066,Major,185,2,True,False,False
+sdv-id-GMhkuR,sdv-id-LJdcWk,970.2184068546654,Total Loss,183,3,True,False,False
+sdv-id-pSkVXh,sdv-id-AIvEGG,2528.6793693717327,Major,170,3,True,True,False
+sdv-id-HzUgmZ,sdv-id-rrrnzn,1321.788800639279,Total Loss,298,3,False,False,False
+sdv-id-PJlNbi,sdv-id-CqBQEK,323.25235259606325,Minor,317,4,True,False,False
+sdv-id-QFgmpN,sdv-id-PzpjUi,2479.3471452227645,Major,5,1,True,True,False
+sdv-id-OlBNSS,sdv-id-njlqzn,1709.2374522818488,Major,226,4,False,True,False
+sdv-id-KqgjPa,sdv-id-ZVwMHD,1379.810778570738,Minor,156,2,False,False,False
+sdv-id-cvvvrr,sdv-id-raKotP,1215.0389493023897,Minor,136,3,True,True,False
+sdv-id-MlyMIv,sdv-id-AXNeYv,1490.4075813134743,Total Loss,23,2,True,False,False
+sdv-id-bavMkT,sdv-id-nrdzKU,2631.6223527961683,Major,66,2,True,False,False
+sdv-id-QUYRVF,sdv-id-MUFdel,323.25235259606325,Minor,174,2,False,False,False
+sdv-id-VkHTUU,sdv-id-BMWjRn,1545.891687162303,Total Loss,125,2,True,False,False
+sdv-id-hiCHMF,sdv-id-thIpZZ,2433.9863156651554,Major,15,2,True,False,False
+sdv-id-bYcTHU,sdv-id-GIdkzY,1661.830831123326,Major,140,3,False,True,False
+sdv-id-jjQmOc,sdv-id-ADMbkY,2683.87996689417,Major,5,1,True,True,False
+sdv-id-ieBThH,sdv-id-PToEtI,2390.6271697839866,Minor,326,3,False,False,False
+sdv-id-qneSNY,sdv-id-CECoZk,1914.4475036767749,Major,263,2,False,True,False
+sdv-id-wdKiZB,sdv-id-TZdwlx,323.25235259606325,Minor,220,4,False,True,False
+sdv-id-RJrjai,sdv-id-YGzsRX,323.25235259606325,Major,115,4,True,True,False
+sdv-id-ErXgjS,sdv-id-Xsfblf,2737.46604433846,Total Loss,134,1,True,True,False
+sdv-id-aIhlwr,sdv-id-YxZtQr,3680.774289959955,Total Loss,235,0,False,True,False
+sdv-id-pFIDlD,sdv-id-AgzqYL,1098.3446243670278,Major,5,3,True,True,True
+sdv-id-oxreDH,sdv-id-Qusopi,1063.0601293516297,Major,156,4,True,True,False
+sdv-id-yQWnQc,sdv-id-JUSGBm,3288.1847196285476,Major,140,2,False,True,False
+sdv-id-KYqVan,sdv-id-aHyTJl,3166.5627584655285,Major,146,1,True,True,False
+sdv-id-HMhRYB,sdv-id-jFdWfp,1345.8562276495816,Minor,5,2,False,False,True
+sdv-id-TtMdgj,sdv-id-MSWMfd,323.25235259606325,Minor,151,3,True,False,False
+sdv-id-vMEShm,sdv-id-JKoyoR,325.48730401786156,Minor,10,3,True,False,False
+sdv-id-HnGXmi,sdv-id-yrNLrg,4235.73851053777,Total Loss,170,1,True,False,False
+sdv-id-NxLvjE,sdv-id-VguocP,323.25235259606325,Minor,30,2,True,False,False
+sdv-id-wDRxNY,sdv-id-vJqhwR,1648.0063563603846,Total Loss,142,2,False,False,False
+sdv-id-MlhMSh,sdv-id-MKvVPa,323.25235259606325,Major,98,4,True,True,False
+sdv-id-epOaPW,sdv-id-bcTXGG,2127.1522815807443,Major,193,3,False,True,False
+sdv-id-WZGrya,sdv-id-EoJzoP,1774.857347680924,Minor,239,3,False,False,False
+sdv-id-xqSngs,sdv-id-qvrfGB,1517.7614687154348,Total Loss,281,4,True,False,False
+sdv-id-BAQpjo,sdv-id-NsbZbO,2801.119610302297,Major,267,0,True,True,True
+sdv-id-Ndrmhe,sdv-id-NcrtlL,323.25235259606325,Total Loss,5,4,True,False,False
+sdv-id-nEdslw,sdv-id-eHLtSi,2628.5084975947357,Total Loss,134,2,True,False,False
+sdv-id-QvLqAu,sdv-id-xXBSCZ,2537.3660496183056,Major,171,2,True,True,False
+sdv-id-dcdUad,sdv-id-wZmXot,2548.3041787018615,Total Loss,8,1,True,False,False
+sdv-id-jtHiuv,sdv-id-oqtCQL,2317.73995935701,Total Loss,96,1,True,False,False
+sdv-id-XLGxgT,sdv-id-UDjAGw,598.8526648172754,Major,160,4,True,True,False
+sdv-id-XYfjyD,sdv-id-KBycOd,957.9548586311037,Minor,166,2,False,True,False
+sdv-id-EzgHSR,sdv-id-COXAkK,360.08749460894364,Total Loss,119,4,False,True,False
+sdv-id-mGzGTM,sdv-id-YkeVVp,2483.3884225509514,Major,273,2,True,True,False
+sdv-id-GTijUP,sdv-id-jyTyKb,2855.7001783322817,Minor,130,0,False,False,True
+sdv-id-WiaTfj,sdv-id-DXTnKO,323.25235259606325,Total Loss,280,4,True,True,False
+sdv-id-LxHhcZ,sdv-id-lYbEAp,323.25235259606325,Total Loss,328,4,False,True,False
+sdv-id-HGFFGT,sdv-id-BPTGtP,3865.835162376271,Total Loss,224,0,False,False,False
+sdv-id-BVQmXv,sdv-id-uarhjb,1834.1248933102463,Major,261,3,False,True,False
+sdv-id-QykxfO,sdv-id-SFrxpa,2947.348011984838,Major,148,1,True,False,True
+sdv-id-MRdtes,sdv-id-mboYJj,1727.296682113997,Major,5,2,False,False,False
+sdv-id-gaNRxk,sdv-id-kMBjZA,3259.7845304487146,Major,343,2,False,True,False
+sdv-id-CHEetV,sdv-id-jwftYz,1977.986266338421,Total Loss,232,2,False,True,True
+sdv-id-LwKxrl,sdv-id-ilVnRZ,1199.469280446136,Major,278,2,False,True,False
+sdv-id-VFskSr,sdv-id-CLvHwt,1936.3515657312014,Minor,169,1,False,False,False
+sdv-id-FqxSNQ,sdv-id-AqBoGX,2974.7957293335685,Major,345,3,False,False,False
+sdv-id-DFantN,sdv-id-BlpOVW,515.9976320869812,Total Loss,345,4,False,False,False
+sdv-id-lxylME,sdv-id-SYyHGw,2490.3088639923694,Major,106,3,True,False,False
+sdv-id-rbzqeQ,sdv-id-ZllBVo,2582.267539071703,Major,55,2,True,False,False
+sdv-id-XOuwAO,sdv-id-AdtOJK,1720.4214136528399,Total Loss,321,2,False,True,False
+sdv-id-trDQNv,sdv-id-AhFPhV,3212.5547065070755,Total Loss,5,0,True,True,True
+sdv-id-axzFOA,sdv-id-mqKqbL,1624.8118623698426,Major,5,2,True,False,False
+sdv-id-syDqGK,sdv-id-JhQvyE,3257.0761949300395,Major,240,0,False,True,False
+sdv-id-sqTALc,sdv-id-gIEmAf,1010.2642433831052,Major,110,4,True,True,False
+sdv-id-ucWpJB,sdv-id-tPrfQX,1853.600418785802,Minor,83,1,False,False,False
+sdv-id-InkhwM,sdv-id-UVHErS,1722.9529552884553,Minor,199,3,False,True,False
+sdv-id-xYXcEM,sdv-id-ZcEBbZ,3286.317287807764,Total Loss,345,2,False,True,False
+sdv-id-haVFtJ,sdv-id-uopHav,1692.3277996816519,Major,300,3,False,True,False
+sdv-id-eYyWPC,sdv-id-ixyAcy,3185.5609337350343,Major,282,3,False,True,False
+sdv-id-YyoXRZ,sdv-id-ERSdGm,323.95993544118755,Major,5,4,True,True,False
+sdv-id-GfNoki,sdv-id-WZiPyv,401.8043220729894,Total Loss,228,3,True,True,True
+sdv-id-PIFhAQ,sdv-id-efJquF,3807.8374367174874,Total Loss,203,0,True,False,False
+sdv-id-JGQkZV,sdv-id-xxmvEO,2165.576508334424,Major,85,3,True,True,False
+sdv-id-FVBqXN,sdv-id-hJBzpi,3330.40533809118,Major,14,1,True,False,False
+sdv-id-eMoewO,sdv-id-yTPRhw,2071.277873918984,Major,149,2,True,False,False
+sdv-id-NYVxwY,sdv-id-HOKwPQ,751.9166429914696,Major,5,3,True,False,False
+sdv-id-mmneeZ,sdv-id-bUZyNT,3408.6983162046054,Total Loss,297,1,False,True,False
+sdv-id-wjxhCv,sdv-id-gDbsLv,1935.3953837260424,Total Loss,121,2,True,False,False
+sdv-id-MPRuzI,sdv-id-XFCCfb,1823.1235919404842,Major,228,4,False,True,False
+sdv-id-IXHxuN,sdv-id-enFhDl,3462.403636979623,Major,22,0,True,True,False
+sdv-id-VRnjjg,sdv-id-JsAbGl,1560.1089230791517,Minor,163,3,False,True,False
+sdv-id-AcZWgh,sdv-id-kLFGTm,1944.8290354262592,Major,135,3,True,False,False
+sdv-id-OgEmyA,sdv-id-UVczkL,1970.924417572407,Total Loss,28,2,True,False,False
+sdv-id-ACMnRy,sdv-id-fAouLn,3765.438238748997,Major,167,1,False,False,False
+sdv-id-NaMloz,sdv-id-Dqpsre,692.2746945270615,Major,238,4,False,False,True
+sdv-id-rxygmu,sdv-id-yvRQGq,1099.1024419216744,Major,5,4,True,True,False
+sdv-id-lCtOhh,sdv-id-sGvgzf,2059.0811883938527,Minor,132,1,False,False,False
+sdv-id-GNzGtD,sdv-id-STmhZA,666.967377337375,Major,5,4,True,True,False
+sdv-id-CDHICF,sdv-id-IshDyv,3302.2290414402337,Major,36,0,True,True,False
+sdv-id-NMxKBU,sdv-id-MsVhHt,877.684129726014,Total Loss,295,4,True,False,False
+sdv-id-FwXROS,sdv-id-VOIekY,547.1109922982755,Major,5,4,True,False,False
+sdv-id-mncvuZ,sdv-id-VcNmkX,1244.8598227433456,Minor,90,3,False,False,False
+sdv-id-QqLCOW,sdv-id-AhkFjh,933.6939662372894,Major,314,3,True,True,False
+sdv-id-kpySlK,sdv-id-AsyRZo,1527.061684749076,Minor,162,3,False,False,False
+sdv-id-rrmVHb,sdv-id-TKCfRW,2865.885233195561,Total Loss,204,1,False,True,False
+sdv-id-lcIiiw,sdv-id-DrZFeS,1363.9144237673768,Major,92,3,True,True,True
+sdv-id-zkjORF,sdv-id-fNKsTb,2759.2022631092436,Minor,307,0,False,False,False
+sdv-id-luGcRJ,sdv-id-OeLlJZ,2068.5830239631505,Major,175,2,False,True,False
+sdv-id-oRhFAE,sdv-id-EwdCvN,3388.959280813215,Major,141,3,True,False,False
+sdv-id-tQhUAb,sdv-id-AdslWO,887.8477012145895,Major,218,4,True,False,False
+sdv-id-IQYbDm,sdv-id-GHSSNN,1506.6741809258708,Major,5,3,True,True,False
+sdv-id-BbhhCj,sdv-id-iIxzVK,2699.5462451564736,Total Loss,168,2,False,True,False
+sdv-id-LmTTYm,sdv-id-twlJqH,1631.3269159409292,Major,321,4,True,True,False
+sdv-id-XRILlc,sdv-id-dUwgTp,2377.6814936251944,Major,5,4,True,False,False
+sdv-id-hbwaiG,sdv-id-bnLeoM,1999.9089564813805,Major,91,2,True,True,False
+sdv-id-scmJAq,sdv-id-epmGOI,864.6479562814944,Total Loss,123,3,True,False,False
+sdv-id-tDBIyF,sdv-id-CWgSwi,2083.381923155022,Major,345,3,False,False,False
+sdv-id-tFxArE,sdv-id-yVIrXz,2824.033631581968,Total Loss,334,2,False,True,False
+sdv-id-XevHbV,sdv-id-wGcuOc,4235.73851053777,Major,5,0,True,True,False
+sdv-id-kamGcq,sdv-id-VGmJQM,1360.6997514510954,Major,5,2,True,True,False
+sdv-id-mRnSec,sdv-id-UpVAyi,1932.4781922566008,Major,345,2,True,True,False
+sdv-id-hrHJtR,sdv-id-Ccbuon,2880.5870476115,Total Loss,116,0,True,False,False
+sdv-id-rQopPF,sdv-id-TubqmF,2154.028185970758,Total Loss,276,0,False,True,False
+sdv-id-zxaIoX,sdv-id-osDNOT,1372.612042747717,Minor,117,3,False,False,True
+sdv-id-sbFFTJ,sdv-id-VDYWHL,3353.341860805239,Major,5,2,True,True,False
+sdv-id-wYneGb,sdv-id-CvUHqL,2639.0079396142396,Minor,272,1,False,True,False
+sdv-id-vLFimf,sdv-id-MBTlgh,1518.5491018070607,Minor,172,2,False,True,False
+sdv-id-wHPiau,sdv-id-XNutbh,1449.2246595305269,Major,345,4,False,True,False
+sdv-id-kIEbFS,sdv-id-qlJmZz,2345.661113456827,Major,149,1,False,False,False
+sdv-id-evxDUQ,sdv-id-nMiUBG,1622.3775347950257,Major,5,3,True,True,False
+sdv-id-jNPUqU,sdv-id-huniRA,1624.0247531860527,Total Loss,282,3,True,False,False
+sdv-id-feSCeK,sdv-id-YbyHVb,3321.919011742836,Major,50,1,False,True,False
+sdv-id-PFcnwX,sdv-id-BCKQAO,1661.5762412266722,Total Loss,157,3,False,True,False
+sdv-id-fjubZQ,sdv-id-ITWzSd,2619.731836891264,Major,70,3,True,False,False
+sdv-id-FeexEE,sdv-id-pOnsRc,1315.4627703263727,Major,26,3,True,True,False
+sdv-id-CWjXCL,sdv-id-cELYtN,2601.019873320731,Major,215,2,False,True,False
+sdv-id-vSDjQW,sdv-id-BQpGOx,3318.4108541416726,Minor,5,0,True,False,False
+sdv-id-RBuqDr,sdv-id-YJkUrk,3229.813852719123,Major,345,3,True,True,False
+sdv-id-xUojCp,sdv-id-YpHbzP,1898.3230786249871,Major,88,1,True,True,False
+sdv-id-vxcRCR,sdv-id-DHcZbe,1136.775641327448,Minor,267,3,False,False,False
+sdv-id-MXFwuR,sdv-id-Wexbeg,1841.855529688442,Major,210,2,True,True,False
+sdv-id-xPQyMJ,sdv-id-ZZiMnr,2991.452057887511,Total Loss,286,0,True,False,False
+sdv-id-viuySd,sdv-id-Rinnsw,1732.380594264135,Minor,345,3,False,False,False
+sdv-id-rJiHcX,sdv-id-ouYUoR,1093.442252525545,Minor,188,2,False,True,False
+sdv-id-LlROYP,sdv-id-nYkjwy,3643.0325416126457,Major,128,2,True,False,False
+sdv-id-FSpyIK,sdv-id-ppEkyt,2634.8176353126655,Major,34,2,False,True,True
+sdv-id-uYRczv,sdv-id-JckjJg,501.6351665183595,Major,313,4,True,False,False
+sdv-id-TxEMwZ,sdv-id-QzVWNI,2867.108555334194,Major,184,2,False,False,False
+sdv-id-xpOhVA,sdv-id-JnLFil,1078.397366144397,Minor,105,3,False,True,False
+sdv-id-YjfDeK,sdv-id-elOWFW,2671.88812618703,Minor,172,1,False,False,False
+sdv-id-qoPuGq,sdv-id-RJzMra,1971.3696710848644,Major,23,2,True,True,False
+sdv-id-rfHHhp,sdv-id-MspqIK,2672.6626472794314,Major,126,3,True,False,False
+sdv-id-MnAnhf,sdv-id-ETBDkj,1853.561376044443,Total Loss,59,2,True,True,False
+sdv-id-seuhWV,sdv-id-xcYqmk,1977.9054980256624,Minor,5,2,False,False,False
+sdv-id-vIufRF,sdv-id-FOtapq,323.25235259606325,Minor,5,2,True,False,False
+sdv-id-sugQyD,sdv-id-DOKPYj,2142.582045126159,Minor,244,2,False,True,False
+sdv-id-VBaefq,sdv-id-BJZCVr,323.25235259606325,Minor,129,2,False,False,False
+sdv-id-NdGQbP,sdv-id-WjAZwK,1789.006492530845,Total Loss,267,2,True,False,False
+sdv-id-ZZLykQ,sdv-id-OFLjcF,957.6840148709621,Minor,186,3,False,True,False
+sdv-id-qWdDeU,sdv-id-SPCPkD,2378.5216219096437,Minor,101,1,False,True,False
+sdv-id-GDsxXg,sdv-id-vluaqQ,814.0058701237647,Total Loss,147,4,False,True,False
+sdv-id-ejjNaL,sdv-id-OxWeqw,2727.243671619206,Minor,5,0,True,False,False
+sdv-id-qoaDCF,sdv-id-XsWqPr,961.3905433645142,Major,67,4,True,False,False
+sdv-id-UbCHQF,sdv-id-kvqejT,2454.485101277602,Major,190,3,True,False,False
+sdv-id-xedcKl,sdv-id-gJSqZZ,2628.336831946489,Minor,278,0,False,False,False
+sdv-id-otxzdG,sdv-id-SgUUiK,2679.8915610358413,Major,58,3,True,True,False
+sdv-id-bntwJi,sdv-id-EfciNL,1643.1609536901096,Major,5,2,True,False,False
+sdv-id-QMzfZd,sdv-id-eUBjqr,1301.2371631941242,Major,35,2,False,True,True
+sdv-id-EIIoFu,sdv-id-rlBFaN,3189.585051534331,Major,217,4,True,True,False
+sdv-id-dGFLGv,sdv-id-nQuiWM,1046.125167912172,Minor,62,2,False,True,False
+sdv-id-hqOzBo,sdv-id-bZQxwK,1201.1924523862835,Major,228,3,True,False,False
+sdv-id-qkgnKk,sdv-id-wjsJeH,2881.447203402925,Total Loss,345,3,False,True,False
+sdv-id-Rzekxx,sdv-id-aAPZTW,2100.9948467536287,Major,275,2,False,True,False
+sdv-id-AeOkmz,sdv-id-uZOviL,323.25235259606325,Major,6,4,True,True,False
+sdv-id-jsxEfE,sdv-id-MFDRQj,893.3822144301678,Major,228,4,True,True,False
+sdv-id-PrsJWr,sdv-id-OpvdAg,1660.5954026975749,Major,194,2,True,False,False
+sdv-id-aayakg,sdv-id-BfmXWo,3066.8085217086264,Minor,194,0,False,True,True
+sdv-id-mraTxq,sdv-id-TFucla,2434.6056185875873,Major,125,2,True,True,False
+sdv-id-UPoRIb,sdv-id-LCaMJR,323.25235259606325,Minor,208,3,False,True,False
+sdv-id-vczIJG,sdv-id-gdqHsy,769.7119482758494,Total Loss,171,3,True,True,False
+sdv-id-fwOqPK,sdv-id-OrfqAf,3574.128828851267,Minor,55,0,False,False,False
+sdv-id-gDZHwe,sdv-id-LwZvzE,1166.0678064057906,Total Loss,5,2,True,False,False
+sdv-id-YtffCY,sdv-id-xmycxD,1667.350005150805,Total Loss,5,2,True,True,True
+sdv-id-LKhivQ,sdv-id-NtbDyG,2948.911274074412,Major,227,2,False,False,False
+sdv-id-TfySll,sdv-id-oZLSNU,2545.571493862815,Major,193,2,True,True,True
+sdv-id-NuWrag,sdv-id-FwLHYq,1898.7881317254476,Major,192,2,True,True,False
+sdv-id-tiAjqm,sdv-id-oHBsSp,776.0831792871656,Major,227,4,True,True,False
+sdv-id-XkzozI,sdv-id-ePlMaG,3685.9327085220166,Total Loss,113,1,True,False,False
+sdv-id-IymquH,sdv-id-mGHBLb,1033.806958011069,Major,89,4,True,True,False
+sdv-id-HNiNkd,sdv-id-OwVdcf,2285.5808031002816,Minor,60,1,False,True,False
+sdv-id-MwjPIz,sdv-id-RjDuQe,3036.3372581230933,Major,5,0,True,True,False
+sdv-id-IaLutg,sdv-id-fiBsUN,323.25235259606325,Minor,205,2,False,False,True
+sdv-id-bGxjdx,sdv-id-QspGte,2321.779072488178,Major,5,1,True,True,False
+sdv-id-iddRuY,sdv-id-jxPirF,1105.8060398568184,Major,60,4,True,True,False
+sdv-id-NmHFVj,sdv-id-wwfYnK,1228.0512538663838,Major,116,3,True,True,False
+sdv-id-KuQOOE,sdv-id-oFreaM,1034.8541356511823,Minor,57,2,False,False,False
+sdv-id-iJhmdv,sdv-id-mPcUeK,2419.8373008447556,Total Loss,243,3,False,False,False
+sdv-id-KfJisv,sdv-id-boxbaq,3436.5207910210597,Major,254,1,True,True,False
+sdv-id-YVQzmr,sdv-id-wQrbCO,2764.8732302681096,Total Loss,345,2,False,True,True
+sdv-id-ESyPgy,sdv-id-GPXyli,1424.3881240417509,Major,290,4,False,True,False
+sdv-id-LmkvAc,sdv-id-IBjKpi,1899.8184385062482,Total Loss,150,3,False,True,False
+sdv-id-XfqcZF,sdv-id-xMLMAD,323.25235259606325,Total Loss,90,2,True,False,False
+sdv-id-IihDVT,sdv-id-zheDJs,1201.4270787073688,Minor,41,1,True,True,False
+sdv-id-wuKVra,sdv-id-XZzpqw,1818.6974016795132,Minor,61,2,False,True,False
+sdv-id-TpjNFi,sdv-id-bcNbkM,3534.323698674405,Major,136,2,True,True,True
+sdv-id-JztSlS,sdv-id-OSlMOv,2427.770832160381,Major,158,2,True,True,False
+sdv-id-zUiPWW,sdv-id-KMQNhj,2645.002744568663,Minor,68,0,False,False,False
+sdv-id-jkaLTv,sdv-id-SsMRCi,4235.73851053777,Total Loss,104,0,False,True,False
+sdv-id-tIbhfR,sdv-id-fKkHAb,1846.9497467764227,Minor,254,1,False,False,False
+sdv-id-tcxSqq,sdv-id-iDaEqA,1410.401901775613,Total Loss,5,1,True,False,False
+sdv-id-MZSGnW,sdv-id-qRnJNg,3917.7105244511954,Minor,345,0,False,False,False
+sdv-id-BWMFpi,sdv-id-MsWnKM,468.29848371224716,Total Loss,50,4,False,True,False
+sdv-id-eoBcCA,sdv-id-QEuxnw,2647.340788129534,Major,65,1,True,False,True
+sdv-id-hMiqTT,sdv-id-BjEauw,4211.29097518618,Major,124,1,True,True,False
+sdv-id-lUUwvV,sdv-id-pBjFwS,1794.878624421263,Major,5,3,True,False,False
+sdv-id-dNjgTV,sdv-id-ikjVXY,323.25235259606325,Total Loss,345,3,True,True,False
+sdv-id-hVrgQY,sdv-id-dPEflV,323.25235259606325,Minor,193,3,False,False,False
+sdv-id-YQZSQE,sdv-id-EBrGLo,3608.0467459597303,Total Loss,188,1,False,True,False
+sdv-id-hMMvPf,sdv-id-VXqDCY,3991.5906081194535,Major,330,1,True,True,False
+sdv-id-IiNHfp,sdv-id-ADpsam,737.3019377728203,Minor,114,2,True,False,False
+sdv-id-fhZvyw,sdv-id-pjZbFD,2467.462348948328,Total Loss,200,2,False,False,False
+sdv-id-PEsXhy,sdv-id-uplUIR,1713.2873864089856,Total Loss,5,1,True,True,False
+sdv-id-zvcqpX,sdv-id-jlDnvZ,2610.191789467165,Minor,284,0,False,False,False
+sdv-id-JmJybk,sdv-id-MTsCdK,3535.367216845788,Minor,56,0,False,False,False
+sdv-id-vlVEtQ,sdv-id-opQdjd,883.3722216148644,Major,119,4,True,False,False
+sdv-id-lEgWSQ,sdv-id-riCZSS,323.25235259606325,Minor,176,3,True,False,True
+sdv-id-zVVhlT,sdv-id-redaUx,382.8009236159894,Minor,250,4,False,False,False
+sdv-id-cmGWmR,sdv-id-jmtzki,1192.6050728228097,Minor,5,3,True,False,False
+sdv-id-xrKCuC,sdv-id-doRrtg,2926.723004096938,Minor,117,0,False,False,True
+sdv-id-XbuUwK,sdv-id-sJKVHH,3382.730188043418,Major,119,2,True,True,False
+sdv-id-NzqmAU,sdv-id-CjkdiE,2408.2513583024156,Major,304,2,True,True,False
+sdv-id-WAcRwF,sdv-id-FjupVz,3388.080239946704,Major,47,2,True,False,True
+sdv-id-RCBELb,sdv-id-hdmNuV,1509.687057674014,Major,305,3,False,True,False
+sdv-id-XFgmGY,sdv-id-tJiUEW,323.25235259606325,Minor,169,2,False,True,False
+sdv-id-wHIKEa,sdv-id-QnGXfe,2283.1419753430678,Major,181,4,True,True,False
+sdv-id-HFBbII,sdv-id-hnkFhP,1772.9042004090868,Total Loss,92,2,False,True,False
+sdv-id-hPVXYr,sdv-id-QVtAmR,2042.7571433434305,Major,134,2,True,False,True
+sdv-id-uSGAhR,sdv-id-LirnMB,874.6115702435523,Major,345,4,False,False,False
+sdv-id-MIOViB,sdv-id-twNswT,4235.73851053777,Major,223,0,True,True,False
+sdv-id-BlgwkU,sdv-id-HJgZFe,1275.9775015795108,Total Loss,104,2,True,False,False
+sdv-id-UypGvj,sdv-id-yYEvVL,2799.8162272319823,Major,345,3,False,True,False
+sdv-id-IdxXKK,sdv-id-LaxVws,998.4852850761947,Minor,277,3,False,False,False
+sdv-id-xMEcLj,sdv-id-JkqHKt,1855.612900242803,Total Loss,98,2,True,True,False
+sdv-id-lkraIY,sdv-id-HoYZMX,2545.6838584157886,Major,5,2,True,True,False
+sdv-id-hQbbey,sdv-id-mgEyHv,1251.2824408006304,Minor,345,2,False,False,True
+sdv-id-TwFHSl,sdv-id-XdkTpx,1811.4352613438207,Major,345,3,False,True,False
+sdv-id-Gnbjvu,sdv-id-sHJIec,323.25235259606325,Total Loss,218,4,True,False,False
+sdv-id-DJhXrT,sdv-id-IHCglc,3388.559873383785,Total Loss,189,1,False,False,False
+sdv-id-CViikl,sdv-id-ALDzuq,362.41813151867404,Total Loss,176,3,False,True,False
+sdv-id-ajWkeK,sdv-id-oCJuZI,2607.082630556118,Total Loss,345,3,False,True,False
+sdv-id-HWpclJ,sdv-id-gRtxff,2183.896145248309,Major,310,4,False,True,False
+sdv-id-xDSYMS,sdv-id-EhJRBR,907.1116652613566,Total Loss,60,3,True,True,False
+sdv-id-cYvcmJ,sdv-id-cWNeUv,2151.268038160693,Major,228,3,True,True,False
+sdv-id-SuVvRV,sdv-id-CcINuh,2405.261683970774,Total Loss,155,1,False,True,False
+sdv-id-PVvaLO,sdv-id-FWCEgC,1750.470887368174,Minor,170,2,False,False,False
+sdv-id-JPojNH,sdv-id-tqMxVI,3565.627100951344,Major,94,1,True,False,False
+sdv-id-MiUqnq,sdv-id-IgkmsD,888.3316150625683,Minor,129,2,False,False,False
+sdv-id-YpbYxb,sdv-id-ZiRnpV,2615.5101247977263,Total Loss,43,1,True,True,False
+sdv-id-sdRRxu,sdv-id-MLTQxr,323.25235259606325,Minor,66,4,False,False,False
+sdv-id-bQfQxR,sdv-id-clQizh,2655.525109976306,Major,36,1,True,False,False
+sdv-id-HPnRYu,sdv-id-YBRqyK,837.2080683732593,Minor,330,4,False,True,False
+sdv-id-wvrAmI,sdv-id-YJjNoi,4235.73851053777,Major,5,2,True,True,False
+sdv-id-jBUzYB,sdv-id-OdLipx,1203.3377025734221,Total Loss,48,1,True,False,False
+sdv-id-XskRaL,sdv-id-MaYcAQ,1552.1050797374992,Major,295,4,True,True,False
+sdv-id-LLmJgm,sdv-id-rXlYJm,3984.679880966879,Total Loss,331,0,False,False,False
+sdv-id-iTdowF,sdv-id-edBGfG,2028.0313152025174,Minor,345,2,False,True,False
+sdv-id-MCraUI,sdv-id-tOPTxM,2501.7022530574923,Minor,41,1,False,False,False
+sdv-id-SnyrfI,sdv-id-AIzFKq,3142.396794288503,Total Loss,345,0,False,True,False
+sdv-id-utAIJG,sdv-id-WOKqxp,602.0748819232488,Minor,5,3,False,True,False
+sdv-id-vmNWRC,sdv-id-ngpWsF,1322.0388225223542,Total Loss,250,4,False,False,False
+sdv-id-ugKOxW,sdv-id-punJyZ,3170.3958890990743,Major,160,3,True,True,False
+sdv-id-MxGkge,sdv-id-yPIjoY,3147.150121650173,Major,157,1,False,True,False
+sdv-id-WYFrwy,sdv-id-SjAvku,2945.129756490439,Major,63,3,False,True,False
+sdv-id-UIdzIO,sdv-id-DzPyoH,618.2608945696654,Minor,51,4,True,True,False
+sdv-id-xrBkeV,sdv-id-kPokye,3609.9824064429504,Total Loss,231,1,False,True,False
+sdv-id-ysBKCt,sdv-id-kqtkuA,1350.6864519804767,Major,228,3,False,True,False
+sdv-id-mQbtFA,sdv-id-pnEddq,2869.4457257485174,Major,200,1,True,False,False
+sdv-id-kRkKEU,sdv-id-CqPmIa,929.6808713441652,Total Loss,301,4,True,False,True
+sdv-id-McuVZY,sdv-id-Mmgvyy,2219.0989263706974,Minor,258,1,False,False,False
+sdv-id-yEhkoX,sdv-id-wowFRW,3256.771898652143,Major,186,1,False,True,False
+sdv-id-WBpQuX,sdv-id-sAdvaR,2287.929818807498,Total Loss,77,1,False,False,False
+sdv-id-dzqtsP,sdv-id-TWQRie,2614.9889886297537,Major,78,2,True,True,False
+sdv-id-WkvCUt,sdv-id-WNlyDf,1979.4928283051968,Total Loss,229,2,False,True,False
+sdv-id-VBEtHs,sdv-id-RLNRZb,1487.3426964640641,Total Loss,323,1,False,True,False
+sdv-id-sOggMy,sdv-id-MfHwuj,1802.446256363221,Minor,201,3,False,True,False
+sdv-id-YvzdsV,sdv-id-XilATu,323.25235259606325,Major,246,4,False,True,False
+sdv-id-SWqadl,sdv-id-KcUFKF,1001.0917240029826,Minor,256,3,False,True,False
+sdv-id-vTkwVK,sdv-id-tjFSWz,494.4779891119317,Minor,27,3,False,False,False
+sdv-id-wcFEgR,sdv-id-RTVtgH,469.54175019569857,Total Loss,5,3,True,False,False
+sdv-id-UZRawc,sdv-id-iCKwEl,1362.8185569005625,Major,20,4,True,True,False
+sdv-id-EMhvQz,sdv-id-Wnshfu,976.3935767355272,Minor,212,3,False,True,False
+sdv-id-EKqJzy,sdv-id-bDSKSI,1523.6185867178704,Total Loss,118,3,True,True,False
+sdv-id-epmRUi,sdv-id-WTTyuO,996.034567852886,Total Loss,345,4,False,True,False
+sdv-id-XBZGdl,sdv-id-JJRxiz,1394.1600543802542,Major,345,3,False,True,False
+sdv-id-jKZXbq,sdv-id-cGIJzz,3048.2434563100787,Major,182,2,True,False,False
+sdv-id-pKNuoS,sdv-id-JJkXcL,3138.556827065114,Total Loss,109,2,False,False,False
+sdv-id-UJJofp,sdv-id-pLtJFH,2994.041079689955,Minor,196,1,False,True,False
+sdv-id-eqqpBp,sdv-id-pikTTy,1880.884560006086,Major,68,3,True,True,False
+sdv-id-JtuWtP,sdv-id-nEKizo,356.5757670156627,Major,5,2,True,False,False
+sdv-id-vVgrkQ,sdv-id-lkPswG,1047.1504488859728,Major,5,4,True,True,True
+sdv-id-SPLlll,sdv-id-QpoJZU,1506.9343609534678,Major,65,2,True,False,False
+sdv-id-qGBKdq,sdv-id-pwcEzR,2839.5675411399275,Minor,5,1,True,False,False
+sdv-id-MthLMJ,sdv-id-XcHhMn,507.43467455693894,Major,98,4,True,False,False
+sdv-id-mZewzM,sdv-id-JVzqWg,1717.861062400545,Minor,330,2,False,False,False
+sdv-id-KxeWGT,sdv-id-CHaMdh,719.806947256048,Major,97,3,True,True,False
+sdv-id-dcmrZx,sdv-id-NkhLsZ,323.25235259606325,Major,213,4,True,False,False
+sdv-id-rZcyOG,sdv-id-JFIncJ,734.5019512448471,Total Loss,224,4,False,True,False
+sdv-id-fFvFnw,sdv-id-CnZzLH,1856.6392798016182,Major,224,3,False,True,False
+sdv-id-UOViXt,sdv-id-POQMEo,2286.396556892726,Total Loss,158,1,False,True,False
+sdv-id-EUtnrL,sdv-id-yVSUlV,1208.4584648974858,Major,206,3,True,True,True
+sdv-id-sXtowB,sdv-id-kcloSL,323.25235259606325,Total Loss,345,4,False,True,False
+sdv-id-imOCFp,sdv-id-MZIaeO,865.0370746067858,Major,237,4,False,True,False
+sdv-id-lfIxMj,sdv-id-vwVvRJ,615.3374429491064,Total Loss,261,3,True,True,False
+sdv-id-fBcxSd,sdv-id-qhLtdX,323.25235259606325,Major,140,4,True,False,False
+sdv-id-iLxKPJ,sdv-id-wiWVgD,1448.481727656738,Total Loss,106,2,True,False,True
+sdv-id-NtvmFc,sdv-id-GQzArM,1904.1674030582246,Major,261,3,True,True,False
+sdv-id-anHRXW,sdv-id-PGpbNB,2015.529506013866,Total Loss,266,2,False,False,False
+sdv-id-rWzEKW,sdv-id-rDpOEP,323.25235259606325,Total Loss,345,4,False,True,False
+sdv-id-roaHWT,sdv-id-KQayoS,974.4912963050401,Major,91,4,True,True,False
+sdv-id-KqvMDP,sdv-id-SXXEuW,413.43468448348904,Major,336,4,True,True,False
+sdv-id-bpRSuS,sdv-id-LZOEVG,368.8626305714349,Minor,180,3,False,False,False
+sdv-id-yotKZd,sdv-id-WktZah,1729.2085443874887,Total Loss,246,2,False,True,False
+sdv-id-RflHmG,sdv-id-IqlELK,2528.1592148937725,Total Loss,71,2,False,True,False
+sdv-id-EoUzYL,sdv-id-BAlffA,1049.4922763717805,Minor,144,2,False,False,False
+sdv-id-kjfaEX,sdv-id-VFXgVB,1946.5761898343474,Minor,105,1,True,False,False
+sdv-id-GocVzF,sdv-id-lzwRxC,1399.1817025398855,Total Loss,345,4,False,True,False
+sdv-id-FIjoDF,sdv-id-cRlgsE,546.5039937347124,Total Loss,74,3,True,True,False
+sdv-id-HMcoxe,sdv-id-JtuPth,1254.4515608209429,Minor,152,2,True,False,False
+sdv-id-NjWkTI,sdv-id-ZueAXA,323.25235259606325,Major,272,4,True,False,False
+sdv-id-EDJHTF,sdv-id-otWhsE,390.27669264961673,Total Loss,45,4,True,False,False
+sdv-id-IJzkUl,sdv-id-BNbfiJ,1350.9024325670293,Minor,219,2,False,True,False
+sdv-id-qyXyAO,sdv-id-IgDjHw,1357.3390009068057,Major,105,4,False,True,True
+sdv-id-ofBCKJ,sdv-id-mPztlt,4235.73851053777,Major,192,2,True,False,True
+sdv-id-ltEDEl,sdv-id-JIEGFu,2860.2278220867906,Major,70,0,True,False,False
+sdv-id-NMWAJP,sdv-id-ilZprL,2067.023669142867,Major,131,3,False,False,False
+sdv-id-BlIKXZ,sdv-id-zKgira,2184.32803034739,Major,5,1,True,False,False
+sdv-id-hffIZU,sdv-id-XZCsqK,329.20644759158927,Total Loss,5,3,True,True,False
+sdv-id-yNkOnC,sdv-id-cmMkoi,1012.8950246408408,Minor,5,2,True,False,False
+sdv-id-EhvBPl,sdv-id-LxruRX,2454.8555994976086,Major,200,1,True,False,False
+sdv-id-xVTZAP,sdv-id-HiQagr,2272.1643129952354,Major,7,1,False,True,False
+sdv-id-mjvBnP,sdv-id-KljfqC,820.3898601124044,Total Loss,97,2,True,False,False
+sdv-id-AlgDrx,sdv-id-LjDJNh,1831.7755645213197,Total Loss,120,1,True,True,False
+sdv-id-WjJRKD,sdv-id-BMUgeD,1073.6297410313323,Total Loss,217,3,True,False,False
+sdv-id-ZUEimw,sdv-id-Nxjqot,1731.526643610098,Major,213,3,True,False,False
+sdv-id-WCpWIf,sdv-id-ljAkBl,1420.4086898431494,Major,5,4,True,True,False
+sdv-id-fPHUoa,sdv-id-PIchfT,608.447034819975,Total Loss,57,4,False,False,False
+sdv-id-vRdqer,sdv-id-XJZxqg,870.1358237823194,Total Loss,203,2,True,True,False
+sdv-id-zaIhQa,sdv-id-pXGQgW,1004.0845019031229,Major,115,3,True,False,False
+sdv-id-jHIExZ,sdv-id-sIjhlm,2564.6470292626086,Minor,201,2,False,True,False
+sdv-id-VbWRqw,sdv-id-cnnQKH,3542.3714944961584,Major,345,1,True,True,False
+sdv-id-BgTHqS,sdv-id-pkeMvi,2619.369492818168,Total Loss,344,1,False,True,False
+sdv-id-NGWtGZ,sdv-id-DfKMxb,2448.285969784887,Major,133,2,True,True,False
+sdv-id-DuVJxT,sdv-id-cxarDF,4024.5625929357457,Total Loss,264,1,False,True,False
+sdv-id-ZEdivi,sdv-id-yUtBod,733.2187866858849,Major,58,4,True,True,False
+sdv-id-ScyVxn,sdv-id-GTBzrY,3600.2396443443236,Total Loss,60,0,False,True,False
+sdv-id-OnnFbW,sdv-id-URfMtU,1162.9822918747795,Total Loss,26,1,True,False,False
+sdv-id-PbJxRQ,sdv-id-IdcrbL,790.3074974411697,Major,181,3,True,True,False
+sdv-id-MiuNRu,sdv-id-CBCPay,1122.1249565060475,Total Loss,185,4,True,True,False
+sdv-id-lqFrdp,sdv-id-PZtqZQ,323.25235259606325,Major,115,4,True,False,False
+sdv-id-CBuxpy,sdv-id-Arvqnh,760.6569812088444,Major,100,4,True,True,False
+sdv-id-Ujuqpf,sdv-id-bBfHzw,2486.794621509536,Major,66,3,True,True,False
+sdv-id-xLYjtU,sdv-id-wqEMUP,2621.0533554846998,Total Loss,49,2,True,True,True
+sdv-id-VznXTb,sdv-id-iAunFg,1372.6195471024262,Total Loss,5,3,True,True,False
+sdv-id-EhejgP,sdv-id-BxQwsH,1449.6536501587007,Total Loss,250,2,False,True,False
+sdv-id-EKPLmz,sdv-id-PjPitl,2537.885020822952,Minor,131,2,True,False,False
+sdv-id-NPfpOh,sdv-id-AHSBIX,3222.8894019008467,Major,270,1,False,True,True
+sdv-id-eUvryr,sdv-id-LBZqKZ,1903.4012283071233,Major,242,3,False,True,False
+sdv-id-vmrKhn,sdv-id-DDujpE,2173.9812886592736,Minor,299,1,False,False,False
+sdv-id-wAHvzV,sdv-id-RYdTkv,1422.9149324651185,Major,345,4,True,True,False
+sdv-id-xYuCko,sdv-id-tYmCpJ,323.25235259606325,Minor,314,3,False,True,False
+sdv-id-ohqbfx,sdv-id-ViCixX,2322.446652098603,Total Loss,237,3,False,False,False
+sdv-id-wMqdoj,sdv-id-dfPdES,1730.0271222420774,Major,230,4,True,False,False
+sdv-id-PSsdda,sdv-id-Hhpxld,4235.73851053777,Major,66,1,True,False,False
+sdv-id-lDePnf,sdv-id-vbAkAk,3664.4363629442587,Major,201,1,True,True,False
+sdv-id-EopdnM,sdv-id-UTpNEG,462.3846462987385,Minor,127,2,False,False,False
+sdv-id-nEFLvK,sdv-id-mEfFVX,2589.2484804788473,Major,179,3,True,True,False
+sdv-id-xuwFHL,sdv-id-xCWeTN,1897.650596695827,Minor,162,1,False,False,False
+sdv-id-gVzCdz,sdv-id-MwQPNc,1737.5357971397473,Major,253,4,True,True,False
+sdv-id-plBsoq,sdv-id-LpOFfG,2801.469639707026,Major,24,2,True,False,False
+sdv-id-sYuDMU,sdv-id-QArUqF,1470.722297922319,Major,345,4,False,False,False
+sdv-id-eIeRet,sdv-id-MBnSvE,2202.7427077605053,Major,164,2,True,False,False
+sdv-id-sgTImS,sdv-id-ViWqYz,688.8711082006187,Major,162,4,True,False,False
+sdv-id-WGphfa,sdv-id-GgLwJk,2033.9645580246029,Total Loss,5,0,True,False,False
+sdv-id-TaRGUI,sdv-id-UbMZHN,1778.13603750631,Minor,328,3,False,True,False
+sdv-id-bIbyAK,sdv-id-oBJDqF,323.25235259606325,Minor,309,4,False,True,False
+sdv-id-ibVKLX,sdv-id-TdRHnT,2218.962768785774,Major,211,1,True,False,False
+sdv-id-ztGWTB,sdv-id-inmddW,1440.1444695334758,Minor,40,2,False,False,True
+sdv-id-zHdCdj,sdv-id-zGWwLv,2897.852188835258,Major,5,2,True,True,False
+sdv-id-RugjMK,sdv-id-QRLSUd,323.25235259606325,Total Loss,5,4,False,True,False
+sdv-id-amPMjD,sdv-id-RfPVYy,1341.8958551942383,Major,203,2,True,False,False
+sdv-id-dnMRLQ,sdv-id-cWNxCW,2162.097510307841,Major,73,1,True,True,False
+sdv-id-oCmQLm,sdv-id-ILWJaZ,323.25235259606325,Major,345,4,False,False,False
+sdv-id-jVbXiY,sdv-id-RyxDQT,1489.697824303485,Total Loss,48,2,True,False,False
+sdv-id-JHEPBC,sdv-id-gyzDFk,2205.691045578369,Major,205,2,False,True,False
+sdv-id-VIjZOW,sdv-id-CTnhBm,2472.036269748009,Total Loss,60,1,True,True,False
+sdv-id-TJStdx,sdv-id-DFmyJZ,2626.1193905363803,Major,345,2,False,True,False
+sdv-id-FEpAmc,sdv-id-GihIGM,2582.5398632712913,Major,141,3,False,True,False
+sdv-id-bNmVXV,sdv-id-bEPnlY,3516.4920907445467,Total Loss,8,0,True,False,False
+sdv-id-RJlLpm,sdv-id-dwISXl,2138.596237035822,Major,137,3,True,True,True
+sdv-id-zoCydM,sdv-id-FTcVlz,2397.2348787335086,Major,345,2,False,False,False
+sdv-id-OaVUvF,sdv-id-SLRXHG,1974.6332963537857,Total Loss,126,3,False,False,False
+sdv-id-vvirwv,sdv-id-CrRIeh,574.9854374021972,Major,146,3,False,True,False
+sdv-id-ZvGduF,sdv-id-vaRPwk,323.25235259606325,Minor,49,2,True,False,True
+sdv-id-osgJoQ,sdv-id-KqaEqd,3588.8191373809304,Total Loss,261,1,False,True,False
+sdv-id-egECxZ,sdv-id-ptgBgQ,323.25235259606325,Minor,132,3,False,False,False
+sdv-id-oLRfOf,sdv-id-JPPAmk,3198.516820756222,Major,5,2,True,False,False
+sdv-id-bhoSlw,sdv-id-KYRCfv,2309.1715437784487,Total Loss,237,2,False,False,False
+sdv-id-AbanVl,sdv-id-NZMjYN,323.25235259606325,Minor,277,4,False,False,False
+sdv-id-gepZZC,sdv-id-cvtTOw,2856.7883068318824,Major,213,1,True,True,False
+sdv-id-YkMQGf,sdv-id-bqpoBN,2467.415377118392,Major,166,3,False,False,False
+sdv-id-fkDiYL,sdv-id-jYoNXJ,1203.302669984683,Major,100,2,True,True,False
+sdv-id-lXQzCG,sdv-id-APTXFE,1199.0551956928148,Major,74,3,True,True,False
+sdv-id-VjQgcY,sdv-id-bDDhpP,1886.5672348778742,Total Loss,168,1,True,True,False
+sdv-id-WXruHY,sdv-id-TUHgMK,2914.823333856295,Major,135,0,False,False,False
+sdv-id-dPHaxd,sdv-id-gPTQeg,4235.73851053777,Major,163,1,False,True,False
+sdv-id-HZMMle,sdv-id-MpbEsE,2462.10033564138,Major,345,2,False,True,False
+sdv-id-BxDjAm,sdv-id-nMMKIO,1888.841548312824,Minor,335,3,False,True,True
+sdv-id-oeERkV,sdv-id-SczHQR,2913.3846399044305,Minor,345,0,False,False,False
+sdv-id-iOfttE,sdv-id-RyxrIX,323.25235259606325,Minor,60,4,False,True,True
+sdv-id-HFtRWB,sdv-id-kjlMCO,1990.3650749355147,Major,28,4,True,True,False
+sdv-id-XzBpdc,sdv-id-vnkHVY,2031.9932850707305,Total Loss,153,1,False,True,True
+sdv-id-CeStUn,sdv-id-MscExb,1898.70237150293,Major,206,2,False,True,False
+sdv-id-MGbOzz,sdv-id-BjeoNH,2413.5426192925765,Major,317,3,False,True,False
+sdv-id-NXIJAb,sdv-id-cLrLPr,323.25235259606325,Total Loss,341,4,False,True,False
+sdv-id-mDsNuG,sdv-id-BeHZrQ,1390.8881417809116,Minor,233,1,False,True,True
+sdv-id-dGuNHT,sdv-id-laDVbL,2683.813327376233,Total Loss,172,2,False,True,False
+sdv-id-blfyZa,sdv-id-SOugRy,3339.8148529759756,Major,54,2,True,False,False
+sdv-id-NUwjML,sdv-id-WiEich,511.223601720372,Major,319,4,True,False,False
+sdv-id-YFLlkU,sdv-id-egLcyj,1817.8096346707744,Total Loss,274,2,False,True,False
+sdv-id-JuxzTH,sdv-id-MbHiWC,567.4445007998465,Major,45,4,True,True,False
+sdv-id-NLctvs,sdv-id-PMWLbW,2765.033047235851,Major,204,2,True,False,False
+sdv-id-EMdGTd,sdv-id-hIUYCz,4235.73851053777,Total Loss,285,0,False,False,False
+sdv-id-XqaVTo,sdv-id-DzBlzI,3341.2239601890606,Major,345,2,False,True,False
+sdv-id-Orjbsc,sdv-id-pyXbto,2893.881771816838,Total Loss,232,1,False,False,False
+sdv-id-JlpoJL,sdv-id-vIbpyd,2301.4784974243885,Major,210,3,False,True,False
+sdv-id-YQqbYO,sdv-id-HhZBQQ,2740.1741363173455,Major,51,2,True,True,True
+sdv-id-eqYbXH,sdv-id-dNFeIz,3748.5554895080663,Major,184,0,False,True,False
+sdv-id-CmrrFO,sdv-id-xGLYoY,1772.0319091896854,Minor,205,3,False,True,False
+sdv-id-iuhaJp,sdv-id-JdiCdR,2531.4131173015285,Major,167,2,True,True,False
+sdv-id-ewYvLF,sdv-id-BFyNVJ,1741.0139258021054,Major,119,4,True,False,False
+sdv-id-GkgNGr,sdv-id-zQfBnf,2695.640238151153,Major,345,2,False,True,False
+sdv-id-FLSsPI,sdv-id-FzXeRK,2540.1688148372687,Major,5,2,True,False,False
+sdv-id-BLSQxJ,sdv-id-jCgyOp,1292.411790998322,Major,51,4,True,True,False
+sdv-id-bQGViS,sdv-id-gwTdAO,1658.9673335057216,Minor,102,3,False,True,False
+sdv-id-CLrKKY,sdv-id-mFwbQv,323.25235259606325,Major,56,3,True,False,False
+sdv-id-RJPsDK,sdv-id-IEMhcb,1334.910627487457,Major,51,3,False,True,False
+sdv-id-MzOmMD,sdv-id-XaYDfC,3110.6140884847496,Major,5,3,True,False,False
+sdv-id-lEWPaX,sdv-id-JxjOWk,2571.686013576261,Major,5,1,False,True,False
+sdv-id-PJwyHC,sdv-id-tPeIqP,1013.275963889113,Minor,129,3,True,False,False
+sdv-id-bgwJSx,sdv-id-fFsTXS,460.3255061418704,Total Loss,184,4,True,False,False
+sdv-id-hrxbiq,sdv-id-OkgrVL,2948.328638429559,Total Loss,132,0,False,True,False
+sdv-id-IrsOTl,sdv-id-VKIiec,4235.73851053777,Minor,324,0,False,False,False
+sdv-id-yCqBIf,sdv-id-JhJZWB,639.0853481516926,Minor,267,1,False,True,False
+sdv-id-twgzQW,sdv-id-aPACiS,961.8867786527835,Minor,273,1,False,True,False
+sdv-id-FKivde,sdv-id-wSrlPe,3117.519622312173,Total Loss,5,1,True,False,False
+sdv-id-CvTTZO,sdv-id-aVuyvL,758.0458749599904,Minor,345,4,False,False,False
+sdv-id-MreViR,sdv-id-BIVyyl,3525.0900307740058,Major,251,2,True,True,False
+sdv-id-ZhOxuA,sdv-id-geJmAc,346.8879503397486,Minor,78,1,False,False,True
+sdv-id-BFAQXf,sdv-id-TiKQAF,1682.5333552276686,Total Loss,319,4,False,True,False
+sdv-id-PiYdhy,sdv-id-YtUUEt,1891.8617887534308,Minor,345,1,False,True,False
+sdv-id-wnOsDL,sdv-id-NCTJlc,1960.5077558773555,Total Loss,54,1,True,True,False
+sdv-id-mMqjIS,sdv-id-AWmqLo,2424.055017816585,Minor,151,0,False,False,False
+sdv-id-roXWHF,sdv-id-biUCYh,1732.5097868789976,Major,345,4,False,True,False
+sdv-id-jURpUY,sdv-id-BilFqQ,3167.340765475393,Major,197,2,False,True,False
+sdv-id-spwRDs,sdv-id-zWTTqI,1107.2522644238218,Total Loss,5,2,True,True,True
+sdv-id-uADsoX,sdv-id-raKuYQ,1141.6155662183542,Total Loss,15,3,True,False,False
+sdv-id-OQWFkD,sdv-id-Deklcz,3010.579319444306,Major,345,2,False,True,False
+sdv-id-DzzvKU,sdv-id-fdaGHq,2211.590122920323,Minor,195,1,False,True,False
+sdv-id-NPlZVm,sdv-id-bpUrmb,2143.11560161529,Total Loss,5,1,False,True,False
+sdv-id-TzFljl,sdv-id-DQNlIy,3245.7769788436917,Minor,18,0,False,False,False
+sdv-id-TxsSqH,sdv-id-ffkXcL,2046.8018174378944,Major,128,2,True,True,False
+sdv-id-UNcSwJ,sdv-id-VHsvIm,3056.2482160181403,Major,125,2,True,False,False
+sdv-id-pzuGeM,sdv-id-lylFxF,2955.0018965013605,Minor,135,0,True,False,False
+sdv-id-wVIWXB,sdv-id-mhkzkH,3016.573161227575,Minor,5,0,False,False,False
+sdv-id-AtcuWj,sdv-id-bldRic,1214.24226143658,Major,345,4,True,True,False
+sdv-id-RVmHgC,sdv-id-LuSfqE,1586.8099995419436,Major,242,3,True,True,False
+sdv-id-nTcWks,sdv-id-iSMxqo,1222.8259354578322,Total Loss,189,4,True,False,False
+sdv-id-OtNEZP,sdv-id-jNFDgF,4207.041916004932,Major,148,0,True,True,True
+sdv-id-yHGNAC,sdv-id-EWeJMj,2470.2215055780243,Major,168,2,True,True,False
+sdv-id-EkIvHT,sdv-id-mTePNW,3055.502565871566,Total Loss,280,2,False,True,False
+sdv-id-gKANeu,sdv-id-SjcCJW,621.935621140912,Major,246,3,True,False,False
+sdv-id-DmaucG,sdv-id-oZyvpL,3453.5759572829656,Total Loss,261,0,False,False,True
+sdv-id-shyTJP,sdv-id-MCHfaE,2646.0140064126717,Total Loss,14,2,True,False,False
+sdv-id-PfxaPs,sdv-id-zanodC,1051.8681166801348,Total Loss,305,3,True,False,False
+sdv-id-tHfcRI,sdv-id-qHTpXZ,1757.277418156888,Minor,285,2,False,False,False
+sdv-id-LKkfJQ,sdv-id-mWAKYw,2770.708383244795,Total Loss,95,1,True,False,False
+sdv-id-dICxfF,sdv-id-LkcNwT,1590.121439155519,Total Loss,6,2,True,True,False
+sdv-id-BgcEWx,sdv-id-btGQgI,559.3834678676617,Total Loss,35,4,True,True,False
+sdv-id-IDyGjl,sdv-id-ryZjRM,1254.3237167312946,Minor,221,2,False,False,False
+sdv-id-oDiwyK,sdv-id-xBGSri,2006.242333599984,Major,173,3,True,True,False
+sdv-id-elxKkF,sdv-id-rptGmq,2119.1222006889575,Major,203,3,True,True,False
+sdv-id-eGmQQx,sdv-id-LrVCym,323.25235259606325,Minor,205,3,True,False,False
+sdv-id-jecBpN,sdv-id-WVwkAn,2719.678008566051,Major,5,2,True,False,False
+sdv-id-GVaPhD,sdv-id-SilZun,1785.495373037744,Total Loss,133,3,False,True,False
+sdv-id-osFbnL,sdv-id-uINIfR,1716.2862925055658,Minor,5,1,True,True,False
+sdv-id-FHEQzm,sdv-id-VYdayd,4235.73851053777,Major,130,0,False,True,False
+sdv-id-CnAlji,sdv-id-AdniuB,4105.266621270037,Major,345,3,True,True,False
+sdv-id-NMTyyE,sdv-id-BZqiYG,2818.1518339212275,Major,35,2,True,False,False
+sdv-id-AfkYUY,sdv-id-ZsAynX,3907.1229929362808,Major,119,2,True,True,False
+sdv-id-LDnrfX,sdv-id-gSVgvN,2354.7198055437243,Major,5,2,True,True,False
+sdv-id-gJYVVj,sdv-id-jxlmAu,1920.6904495827798,Major,44,2,True,False,False
+sdv-id-NTJFGe,sdv-id-fIuYuQ,3281.922696083839,Major,331,1,True,True,False
+sdv-id-RZPDeV,sdv-id-CGGHPU,1957.7372045812858,Major,115,4,True,True,False
+sdv-id-CaJAlk,sdv-id-JIqGgZ,2402.0322969736353,Minor,345,2,False,False,False
+sdv-id-JqySUD,sdv-id-pkngcq,1945.3111781258654,Major,345,4,True,True,True
+sdv-id-KtLCLh,sdv-id-ObjAnu,2561.8384218322176,Major,253,4,True,False,False
+sdv-id-NcKEBa,sdv-id-OepPGt,2247.1404517774,Minor,18,1,False,True,False
+sdv-id-ZkqElq,sdv-id-iORVhS,323.25235259606325,Minor,328,4,False,True,False
+sdv-id-oLRPgO,sdv-id-PfAlCX,3522.4683300095394,Total Loss,143,0,False,True,False
+sdv-id-uOxwwr,sdv-id-WePpwX,2984.7411151714778,Major,5,0,True,False,False
+sdv-id-qnQddZ,sdv-id-CHeMJV,3571.646099977563,Major,345,1,False,True,False
+sdv-id-XUmHWD,sdv-id-ixZgaP,3219.5953900933446,Total Loss,22,0,False,True,False
+sdv-id-UBdYvK,sdv-id-ETfsym,401.37529182638195,Total Loss,67,3,True,True,True
+sdv-id-sbOPgE,sdv-id-YuqydD,2269.5804220965247,Major,337,2,True,True,False
+sdv-id-yeZOCr,sdv-id-qTzIjh,2615.018645537877,Major,260,4,True,True,False
+sdv-id-aSkkuv,sdv-id-evtBEZ,1862.2657035493241,Minor,68,0,False,False,False
+sdv-id-lrfkuH,sdv-id-BKHMLs,528.0512346995583,Minor,330,3,False,False,False
+sdv-id-LZFUGT,sdv-id-vjqTAS,336.4932812967327,Total Loss,298,2,False,True,False
+sdv-id-RaJvQW,sdv-id-IxvqPa,1774.582672016397,Minor,223,2,False,False,True
+sdv-id-rtCzqZ,sdv-id-yQeYDb,2412.6039479694045,Minor,297,1,False,False,False
+sdv-id-YwkhYU,sdv-id-UhfSBy,1527.8362472832682,Minor,296,2,False,False,False
+sdv-id-SyMyEh,sdv-id-UqpBqa,4235.73851053777,Minor,135,0,False,False,False
+sdv-id-GgbDTJ,sdv-id-yIjXTm,2599.2392538256418,Major,5,2,True,False,False
+sdv-id-TgDyrE,sdv-id-lqDGVb,2146.2528280391016,Minor,297,1,False,False,False
+sdv-id-wmZTWb,sdv-id-OZjQNC,2783.630373734647,Major,5,1,False,True,False
+sdv-id-dfPpLx,sdv-id-wBibAe,1760.6007852585087,Major,5,2,True,False,False
+sdv-id-pgMeAI,sdv-id-WHBomJ,323.25235259606325,Minor,307,4,True,False,False
+sdv-id-NQiBbc,sdv-id-LCaNAe,1195.5988888878835,Total Loss,5,3,False,True,False
+sdv-id-IqtPHi,sdv-id-xqULBM,1195.3737142913897,Total Loss,264,3,False,False,False
+sdv-id-rUuYpa,sdv-id-ysLAbj,1052.4946936367014,Total Loss,281,4,True,False,False
+sdv-id-qYOTsQ,sdv-id-PYLVud,1340.149958989462,Total Loss,345,4,False,False,False
+sdv-id-YDeYDv,sdv-id-EwTmCo,1371.5833084038727,Total Loss,5,3,False,False,False
+sdv-id-usTwQt,sdv-id-PSNIAM,3023.2983692157272,Major,5,1,True,True,False
+sdv-id-EbmUYE,sdv-id-OBDpVB,1238.8974084091433,Total Loss,266,2,False,True,False
+sdv-id-KLsFnB,sdv-id-ndpUAa,2900.9495578243286,Minor,89,2,False,False,False
+sdv-id-VThVPA,sdv-id-InxAZT,860.2135283242171,Total Loss,71,3,True,False,False
+sdv-id-NUGXkC,sdv-id-xNZWGe,1372.3664627209398,Minor,220,1,False,True,False
+sdv-id-BRolYu,sdv-id-ZRKpNp,1533.8386847745396,Major,52,3,True,True,False
+sdv-id-DHSDDU,sdv-id-vDaXpL,2928.560252945539,Major,251,3,False,True,True
+sdv-id-bdnIjM,sdv-id-oclLNX,1277.3995527722268,Total Loss,345,2,False,False,True
+sdv-id-qQzPJH,sdv-id-lvYJYy,2147.175180728167,Minor,315,1,False,True,False
+sdv-id-ouDKDF,sdv-id-tHNyMb,2968.3572252115464,Total Loss,133,2,False,True,False
+sdv-id-ceuZpq,sdv-id-iqIlhT,2627.999538911925,Major,156,2,True,True,False
+sdv-id-CTRkHU,sdv-id-oAOyWN,1437.6732135477844,Major,258,4,True,False,False
+sdv-id-qoRKIf,sdv-id-wuMaCn,4235.73851053777,Major,284,0,False,False,False
+sdv-id-LVtsdc,sdv-id-NdEMEE,3428.9191778569602,Minor,299,1,False,True,False
+sdv-id-evrBKt,sdv-id-kEfLAb,1278.9005491252433,Total Loss,5,4,True,False,False
+sdv-id-oqTCWg,sdv-id-Iavewd,932.9290260939625,Major,182,4,False,True,False
+sdv-id-gtFqHu,sdv-id-kjlKPh,1818.2877558482423,Major,286,1,True,True,False
+sdv-id-QxqWdg,sdv-id-qxeAYU,323.25235259606325,Total Loss,283,4,False,True,False
+sdv-id-gZehiI,sdv-id-IqLeGQ,2287.803525411536,Major,33,2,True,False,False
+sdv-id-okZKEC,sdv-id-aQMuSE,2053.8599438029987,Major,177,2,True,True,False
+sdv-id-wOYgjl,sdv-id-ixJxqs,2005.1351899336762,Minor,5,1,False,False,False
+sdv-id-FeOzIY,sdv-id-zkbATh,3222.089132570596,Major,269,1,True,True,False
+sdv-id-jcdXDD,sdv-id-xbqXJI,2259.5691304547718,Major,5,0,True,False,False
+sdv-id-xmRlWc,sdv-id-hafmiV,2501.613718503993,Minor,75,0,False,True,False
+sdv-id-dYlsWj,sdv-id-xrmNYY,1955.6320890127954,Major,85,3,True,True,False
+sdv-id-KZJxjg,sdv-id-mJjJKv,3306.897146977213,Major,50,1,True,True,False
+sdv-id-gHdWSe,sdv-id-lnORWS,2833.4794888884317,Major,25,2,True,True,False
+sdv-id-pFdIPq,sdv-id-HxvbWA,2162.2660701374703,Minor,285,2,False,False,False
+sdv-id-rdHYTI,sdv-id-ytPFPI,323.25235259606325,Minor,290,3,False,True,False
+sdv-id-aEjnek,sdv-id-wnqouM,2039.8808310534785,Major,345,3,False,True,False
+sdv-id-OCCIWT,sdv-id-QFhcRL,2513.540078781086,Minor,93,0,False,False,False
+sdv-id-ijWKLB,sdv-id-RUSJeM,2705.224523323727,Major,17,2,True,False,False
+sdv-id-BzthKw,sdv-id-xVPvyQ,429.1582136806285,Major,105,3,True,True,False
+sdv-id-SlfMLj,sdv-id-VbRsvS,2593.471367206351,Total Loss,256,3,False,False,False
+sdv-id-iRmivg,sdv-id-oRohrx,2803.117879035921,Total Loss,5,0,True,False,False
+sdv-id-HpaEnX,sdv-id-RFWXKM,2541.385399709421,Major,196,2,False,False,False
+sdv-id-trNVCe,sdv-id-XKGmvw,4235.73851053777,Major,132,0,False,True,False
+sdv-id-qYUFEH,sdv-id-SgYYac,1232.7870671610644,Major,236,3,False,True,False
+sdv-id-MpQoVw,sdv-id-NsHpzx,323.25235259606325,Total Loss,219,4,False,True,False
+sdv-id-BlQgRn,sdv-id-XjAKDk,2744.796474169123,Major,14,2,True,True,False
+sdv-id-JeOITg,sdv-id-cCrwQm,2621.586582707589,Major,149,3,True,False,True
+sdv-id-vjmGpH,sdv-id-UxGqpK,915.056759812596,Major,195,4,True,False,False
+sdv-id-EfRajx,sdv-id-UrcepH,4235.45134917428,Major,123,1,True,True,True
+sdv-id-lgMtOQ,sdv-id-BJqxOJ,1667.8457077208895,Major,133,4,True,True,False
+sdv-id-ATJHhT,sdv-id-bjogSZ,323.25235259606325,Total Loss,199,4,True,False,False
+sdv-id-aDzBdc,sdv-id-JUuudF,323.25235259606325,Minor,332,4,False,False,False
+sdv-id-NrjMUQ,sdv-id-YlQPNz,3129.7355157783204,Major,132,3,True,True,False
+sdv-id-EOpPNz,sdv-id-BqJUXw,897.4703961886032,Minor,345,4,False,False,False
+sdv-id-TSxzDm,sdv-id-NBBZom,3658.217819785333,Major,62,2,True,False,False
+sdv-id-hGbwOy,sdv-id-kmAYwP,2778.5327862319155,Total Loss,153,1,True,False,False
+sdv-id-UDpusi,sdv-id-JvvYCx,3348.9423212632305,Minor,270,0,False,True,False
+sdv-id-HXLEjW,sdv-id-FckfwY,800.0400063551031,Total Loss,174,2,False,False,False
+sdv-id-stOGwe,sdv-id-UhAMMN,2015.2671648921462,Minor,298,0,False,True,False
+sdv-id-drxNSK,sdv-id-InRyUW,1535.9024125792405,Total Loss,126,3,False,True,False
+sdv-id-DFuYZW,sdv-id-tTmXCW,2205.403410557844,Major,5,2,True,True,False
+sdv-id-dtTIYT,sdv-id-rCocZj,1962.1897495095686,Minor,51,1,False,False,False
+sdv-id-Zjbkll,sdv-id-hExopI,1417.8244583365322,Major,5,2,True,False,False
+sdv-id-ZFqeFp,sdv-id-vBBFjr,2847.4870291404827,Major,5,1,False,True,False
+sdv-id-YQsVTz,sdv-id-wwxHzV,323.25235259606325,Major,203,4,True,True,False
+sdv-id-XhgwDI,sdv-id-ADeHGa,768.3175211912583,Total Loss,345,3,False,False,False
+sdv-id-cKImjt,sdv-id-AJoKsP,3049.0983831519197,Major,5,3,True,False,False
+sdv-id-hYujcb,sdv-id-qFTqUw,1193.783272532588,Major,5,2,True,True,False
+sdv-id-EgzyPO,sdv-id-pxuNtv,2722.0413672184686,Minor,149,1,False,False,False
+sdv-id-ksFUye,sdv-id-eNhsfT,3222.756945143574,Minor,310,1,False,False,False
+sdv-id-mUldpk,sdv-id-tgcaih,1889.8619464651636,Minor,89,1,False,False,False
+sdv-id-toDBKD,sdv-id-MpnslU,1035.0278870535453,Total Loss,285,4,False,False,False
+sdv-id-GZPqBj,sdv-id-fLznWb,3608.671336187241,Major,186,1,False,True,False
+sdv-id-azBXcH,sdv-id-pRjuei,2771.987182483462,Major,55,2,True,False,False
+sdv-id-pSIMdw,sdv-id-gSQJfS,769.732755772553,Minor,166,3,False,True,False
+sdv-id-AbvHUp,sdv-id-uvQYQq,1386.3217126170528,Total Loss,5,1,True,True,False
+sdv-id-ovnipT,sdv-id-DffSSR,4235.73851053777,Major,190,1,False,True,False
+sdv-id-TTkBRK,sdv-id-ZIltnl,1283.6979290371241,Minor,190,2,False,False,False
+sdv-id-ngSCdp,sdv-id-vILMRl,1359.0275450000963,Total Loss,89,4,False,True,False
+sdv-id-lwJaSG,sdv-id-aRMNAA,3263.289581732357,Major,6,1,True,True,False
+sdv-id-iMSpEp,sdv-id-LHqKVi,2642.6447243011444,Total Loss,272,2,False,False,False
+sdv-id-IPdNYs,sdv-id-phQrVW,579.4696281944957,Total Loss,338,3,True,False,False
+sdv-id-FGqUss,sdv-id-ZSsgOp,1740.968836523195,Major,290,4,False,False,False
+sdv-id-UNlPZo,sdv-id-ZwNaMG,988.9665095081587,Major,5,4,True,False,False
+sdv-id-JZEIYC,sdv-id-ZbgYeQ,2261.6347354054456,Major,345,2,False,True,True
+sdv-id-AGwNnp,sdv-id-VKpyMC,4235.73851053777,Minor,27,0,True,False,False
+sdv-id-GMTaIG,sdv-id-hCmRqj,3820.1013450832043,Major,253,1,True,False,False
+sdv-id-sxIkkk,sdv-id-EPKWuj,323.25235259606325,Total Loss,126,4,False,True,False
+sdv-id-xrWvyZ,sdv-id-KkHxlP,675.0356848806427,Total Loss,5,3,True,True,False
+sdv-id-kzmKUk,sdv-id-jjVSRM,1967.3546660430084,Total Loss,322,3,False,True,False
+sdv-id-TbURFN,sdv-id-JjKUls,3239.093869613686,Major,5,1,True,False,False
+sdv-id-ZYpTDI,sdv-id-jrozIW,2079.4603216099767,Total Loss,169,1,False,True,False
+sdv-id-GTGKzJ,sdv-id-dZSFnY,1151.6181585159638,Major,253,4,True,True,False
+sdv-id-yDlcpY,sdv-id-nogFSl,1499.9977389790438,Minor,76,3,False,False,False
+sdv-id-jwRDqp,sdv-id-yFXQPn,1479.2703885932035,Minor,263,2,False,True,False
+sdv-id-ZTaGxA,sdv-id-djrOhP,886.0440056202791,Major,195,4,False,True,False
+sdv-id-vtoDGs,sdv-id-yVknql,1268.4705136261587,Minor,263,4,False,False,False
+sdv-id-TZOZSD,sdv-id-lmagJn,3037.222445813355,Total Loss,334,2,False,False,False
+sdv-id-suuevp,sdv-id-QOSFSM,323.25235259606325,Major,269,4,True,True,False
+sdv-id-sPkjNJ,sdv-id-olJzCy,553.4970044012409,Major,84,4,True,True,False
+sdv-id-wTfRYm,sdv-id-TiYXPm,1298.35302456072,Minor,345,2,False,False,False
+sdv-id-afGAcF,sdv-id-OetCeN,1408.8403854093935,Major,5,3,True,False,True
+sdv-id-yZsVgR,sdv-id-iSwdzv,2982.177699561946,Minor,5,1,False,True,False
+sdv-id-rpdSmy,sdv-id-iiSHme,3040.994819204807,Total Loss,28,1,True,False,False
+sdv-id-OudeSk,sdv-id-NnQEAY,1915.5311878518146,Major,182,3,True,True,False
+sdv-id-gBqTrr,sdv-id-kjfywe,323.25235259606325,Total Loss,5,4,True,False,False
+sdv-id-yyyVoE,sdv-id-DUFiZa,4140.1570350549355,Total Loss,72,0,False,False,True
+sdv-id-xLUxxf,sdv-id-Jujljk,2665.482489287162,Total Loss,233,1,False,False,True
+sdv-id-WaURoJ,sdv-id-hxnhcB,1950.2518024331844,Minor,221,1,False,False,False
+sdv-id-zZUTeF,sdv-id-wYKnwL,2540.4553032562644,Major,96,3,False,True,False
+sdv-id-sTuJQh,sdv-id-FZjrkp,3642.416029759726,Total Loss,5,1,True,True,False
+sdv-id-BymAKd,sdv-id-btJxSA,857.8204547476,Minor,65,2,False,True,False
+sdv-id-Jyjqhe,sdv-id-ZPjNvb,3631.6075998671595,Total Loss,5,0,True,False,False
+sdv-id-ttbUwL,sdv-id-kDdFZH,538.3612118434496,Total Loss,204,3,False,True,False
+sdv-id-WUqbjc,sdv-id-bRYTun,1077.4062180094083,Major,188,2,False,True,True
+sdv-id-ZoeycX,sdv-id-IUcMtR,1752.0890892742577,Minor,88,1,True,False,False
+sdv-id-nNuxaI,sdv-id-AdSShH,633.1601014028479,Total Loss,317,3,False,True,False
+sdv-id-Uilkjt,sdv-id-FVeEyp,2550.7133179387097,Total Loss,197,2,False,True,False
+sdv-id-qvJLWl,sdv-id-tjzcQu,2534.090128613815,Minor,147,1,False,False,False
+sdv-id-UsvNYh,sdv-id-UDXHmd,323.6537594205304,Minor,300,2,False,False,False
+sdv-id-kOJFVk,sdv-id-GXKHiD,2574.467565006911,Major,87,2,True,False,False
+sdv-id-JvjEGu,sdv-id-coOycA,4007.717396537818,Major,23,0,True,True,False
+sdv-id-JUhAnX,sdv-id-OgQdVb,3353.397564583712,Major,178,2,True,True,False
+sdv-id-GkraQK,sdv-id-Iljoio,3517.858628486358,Major,152,0,True,True,False
+sdv-id-dcTkDW,sdv-id-WiPJVq,1815.7042976171037,Major,55,2,True,False,False
+sdv-id-jJKqvG,sdv-id-lmQlHn,3788.523046419453,Major,32,0,True,True,True
+sdv-id-LEWHCB,sdv-id-SFJSRP,323.25235259606325,Total Loss,113,3,False,False,False
+sdv-id-vXUZvH,sdv-id-JZdzFe,1394.4901075989383,Total Loss,148,2,False,False,False
+sdv-id-DBlSsw,sdv-id-MzCVYI,1473.8860503467033,Total Loss,320,2,False,False,False
+sdv-id-VCGDHv,sdv-id-CegcpF,2966.892989169381,Major,5,3,True,True,False
+sdv-id-KtFrtJ,sdv-id-Ueusuy,1876.0412017463188,Major,76,2,True,True,False
+sdv-id-vNcEpC,sdv-id-cAvHAD,2113.5643568153246,Total Loss,287,3,False,False,True
+sdv-id-DWNUwG,sdv-id-gATPDZ,3040.3700087258285,Major,233,0,True,False,False
+sdv-id-vAYKiL,sdv-id-qMisKs,1360.5224034448993,Total Loss,253,2,False,False,False
+sdv-id-ZEnVfB,sdv-id-BuTfAj,2179.5111662888103,Total Loss,345,3,False,False,False
+sdv-id-Vlayqp,sdv-id-QOcrWz,1429.7857466428968,Minor,99,1,False,False,False
+sdv-id-dnpxaM,sdv-id-BmnkNt,442.7345478977418,Minor,218,4,False,False,False
+sdv-id-GGNofR,sdv-id-xFisBY,1764.7847885431374,Total Loss,208,2,False,True,False
+sdv-id-mMAUGq,sdv-id-jJjRPx,4235.73851053777,Major,277,0,False,False,False
+sdv-id-ewqRIQ,sdv-id-HBJojZ,323.25235259606325,Major,125,4,True,True,False
+sdv-id-rQKtXx,sdv-id-WoYMxa,2378.215477125702,Major,253,3,False,True,False
+sdv-id-UTADpG,sdv-id-muGIye,3323.7988681019197,Total Loss,79,1,False,True,False
+sdv-id-ZenqWa,sdv-id-wRrtVZ,1334.7076468268626,Minor,345,2,False,True,False
+sdv-id-djIDGd,sdv-id-ujseWV,1332.2527186874954,Total Loss,280,3,False,False,False
+sdv-id-BZYUTi,sdv-id-PPiOtx,323.25235259606325,Major,122,4,True,True,False
+sdv-id-gNlVBg,sdv-id-jzaaoP,2642.407494722348,Minor,5,2,True,False,False
+sdv-id-LenLOH,sdv-id-cigpyO,2246.94690411085,Total Loss,345,1,False,True,False
+sdv-id-lXCgxP,sdv-id-WqFbSs,478.31890111219786,Minor,262,3,False,False,False
+sdv-id-MmsOed,sdv-id-rvGpAb,2125.215779992108,Major,11,3,True,True,False
+sdv-id-vMajjp,sdv-id-JkJXVM,1245.840502994848,Total Loss,70,1,True,False,False
+sdv-id-paeKfc,sdv-id-waZYYe,2387.5088017601315,Total Loss,27,2,False,True,False
+sdv-id-xPFSAJ,sdv-id-fZSLNj,1452.4666169354123,Major,199,3,False,True,False
+sdv-id-shmjXK,sdv-id-vcKnMe,3692.367161248793,Major,208,0,True,True,False
+sdv-id-XIFgBR,sdv-id-HmfSrB,1823.030998228067,Minor,268,2,False,False,False
+sdv-id-aGctwb,sdv-id-HDFRpi,1515.9463730781604,Major,190,3,False,False,False
+sdv-id-WKKgCp,sdv-id-YnJaJE,2468.5766845800154,Total Loss,292,3,False,True,False
+sdv-id-XfftKo,sdv-id-BHguTU,3705.4355927095357,Major,345,1,True,False,False
+sdv-id-LecTks,sdv-id-WduZXe,1535.8640175985229,Minor,275,3,False,False,False
+sdv-id-bPEucm,sdv-id-yDfkEZ,3013.463778776404,Minor,345,1,False,False,False
+sdv-id-QrLoTy,sdv-id-rEmCGE,1386.2929598011665,Minor,207,3,False,True,False
+sdv-id-uEWQpA,sdv-id-SXliWS,2785.6285001358806,Total Loss,47,1,False,True,False
+sdv-id-SwpkAI,sdv-id-vckhAZ,1015.7459381596632,Minor,56,1,True,False,False
+sdv-id-VZsaUQ,sdv-id-tBwigw,2448.118579591939,Minor,186,1,False,True,False
+sdv-id-wzBxee,sdv-id-QnEJlN,1639.765385532911,Minor,32,1,True,False,False
+sdv-id-VInIje,sdv-id-rCwvfo,323.25235259606325,Minor,269,3,False,True,False
+sdv-id-lsekEH,sdv-id-MMtBCi,3448.7129642609125,Minor,110,1,False,True,False
+sdv-id-WSnakC,sdv-id-mglqMp,1262.0691129174115,Total Loss,52,4,False,True,False
+sdv-id-LiAGoT,sdv-id-YrDZdh,2736.2917918765907,Minor,149,1,False,True,False
+sdv-id-fezUHG,sdv-id-udyMQP,3180.371635828516,Major,106,0,True,False,False
+sdv-id-zHbaNy,sdv-id-StlnqK,2982.600464463366,Minor,150,1,False,True,False
+sdv-id-hfOTQa,sdv-id-UpjzHy,3435.690978737801,Total Loss,267,1,False,True,False
+sdv-id-mmtzdI,sdv-id-YZYzWd,2387.822016704307,Minor,78,2,False,True,False
+sdv-id-bFaBly,sdv-id-IKkEDw,323.25235259606325,Minor,203,2,False,False,False
+sdv-id-lMcRAh,sdv-id-hOpotq,2194.0980332215827,Total Loss,206,2,True,True,False
+sdv-id-IWBOpI,sdv-id-xbvJtc,2035.7472619815833,Total Loss,62,3,False,True,False
+sdv-id-YQxSZF,sdv-id-tTVDhm,2040.744568219382,Major,77,3,True,True,False
+sdv-id-vHGAEk,sdv-id-FxvDYA,1533.4457990224544,Minor,56,2,False,False,False
+sdv-id-JrHHCC,sdv-id-NZYVzG,2902.9462020160427,Minor,187,1,True,False,False
+sdv-id-TWUNNa,sdv-id-UTtEEU,3026.8412768456747,Major,181,3,True,False,True
+sdv-id-fmjCxF,sdv-id-GKSpyc,1662.230534035411,Major,5,3,True,True,False
+sdv-id-iOaqNe,sdv-id-lwRcjW,1696.5023067926227,Total Loss,123,3,False,False,False
+sdv-id-WGVBCJ,sdv-id-TqGzuw,1461.3358011766466,Major,336,3,False,True,False
+sdv-id-CkXMfO,sdv-id-uBemCs,2446.887829319723,Total Loss,159,2,False,False,True
+sdv-id-usjrDn,sdv-id-GmeQnT,375.85797977390393,Total Loss,341,3,True,False,False
+sdv-id-FALOpq,sdv-id-eyaaWl,848.6431986304365,Minor,247,3,False,True,True
+sdv-id-QpuqEC,sdv-id-DnqMqZ,2650.983331073646,Major,292,3,True,True,False
+sdv-id-SVxUxN,sdv-id-BUcqay,323.25235259606325,Total Loss,208,4,False,False,False
+sdv-id-PNffLa,sdv-id-mJLnZd,4235.73851053777,Major,97,0,True,True,False
+sdv-id-iXSPms,sdv-id-RVfgPh,2480.958473278186,Major,138,3,True,True,False
+sdv-id-IpcMlZ,sdv-id-PXfsxS,1472.2633166947303,Minor,71,2,False,False,False
+sdv-id-RvJGeD,sdv-id-iHlbXr,1004.5142211916043,Minor,55,3,True,False,False
+sdv-id-GssfPh,sdv-id-hxYiKo,1876.063937941924,Major,206,2,True,True,False
+sdv-id-YNNUwG,sdv-id-BOkVZY,1257.8525556583816,Total Loss,166,3,False,False,False
+sdv-id-dDSzep,sdv-id-FYRClP,742.021129257537,Total Loss,5,4,True,False,False
+sdv-id-ePOlht,sdv-id-MFchau,1824.7133066146225,Total Loss,150,2,False,True,False
+sdv-id-fDAsUb,sdv-id-qlSlkk,2101.499089334012,Total Loss,116,2,False,True,True
+sdv-id-mzHfWB,sdv-id-VTyNJX,3273.794305864416,Total Loss,132,2,False,True,False
+sdv-id-MKeJAA,sdv-id-PzuYDY,2734.235382821979,Major,345,1,False,True,True
+sdv-id-EMXizX,sdv-id-KvYVSR,1728.5191646982946,Major,239,2,False,False,False
+sdv-id-WbdQlW,sdv-id-VjyclC,1814.1711306714208,Major,79,2,True,True,False
+sdv-id-DZrxHG,sdv-id-qtqLbX,1742.1530197980096,Total Loss,92,2,False,False,False
+sdv-id-ZkOXON,sdv-id-uHAeIl,1405.3615537676267,Total Loss,54,3,True,True,False
+sdv-id-JSQVRP,sdv-id-zXioTx,4093.470542559831,Major,64,1,True,True,False
+sdv-id-lQKanv,sdv-id-AwgduQ,2542.9813482679506,Total Loss,135,2,True,False,False
+sdv-id-QbFYyM,sdv-id-fDkuwU,2197.1620462170317,Major,24,1,True,False,False
+sdv-id-pkJPaZ,sdv-id-pFcKKy,4235.73851053777,Total Loss,5,0,False,True,False
+sdv-id-BvbNwv,sdv-id-xVuzJn,3345.5089202416366,Minor,311,2,False,False,False
+sdv-id-mZiqze,sdv-id-YlbWxz,323.25235259606325,Total Loss,345,4,False,True,False
+sdv-id-HAlhYy,sdv-id-xwDytS,2386.0112850840455,Major,345,3,True,True,True
+sdv-id-MzNorD,sdv-id-sVJvem,779.9700381545515,Major,129,3,True,True,False
+sdv-id-GdydHv,sdv-id-HlWHhT,2326.4498994494206,Minor,10,1,False,False,False
+sdv-id-CMnraQ,sdv-id-xTSLgf,2465.5530864265847,Total Loss,345,2,False,True,False
+sdv-id-zQUtme,sdv-id-NgxnSO,2657.2469545031267,Major,130,2,True,False,False
+sdv-id-yHcizg,sdv-id-rpXgTA,845.8936897548786,Major,5,4,True,False,True
+sdv-id-QVcIPy,sdv-id-xmykoR,658.0630692634202,Minor,345,3,False,True,True
+sdv-id-QSsSgT,sdv-id-uMLieg,2605.425126148371,Major,286,3,True,False,False
+sdv-id-HnKHNN,sdv-id-SAATDg,1936.1373437386778,Major,5,2,True,True,False
+sdv-id-fDuPLu,sdv-id-bhMALA,2430.136741190837,Major,278,3,True,True,False
+sdv-id-nyLiln,sdv-id-FSvdhY,3349.944603286237,Minor,208,0,False,False,False
+sdv-id-RNGBBd,sdv-id-dYGFad,1563.1345741976652,Minor,182,2,False,False,False
+sdv-id-hWTPkR,sdv-id-OSfkho,791.1596988680169,Major,84,4,True,False,True
+sdv-id-AwMOus,sdv-id-xtLRbP,1347.6252858744429,Major,171,3,False,True,False
+sdv-id-qtzbLq,sdv-id-GlIWOm,2193.812433347404,Major,92,3,True,False,False
+sdv-id-JzOblM,sdv-id-rkTISv,2009.8731053539875,Total Loss,209,2,False,False,False
+sdv-id-VMzWDO,sdv-id-pHHmBE,756.9754020648397,Minor,5,3,True,False,False
+sdv-id-GHEwwq,sdv-id-UJlpPN,3562.6496351655023,Major,178,1,True,False,False
+sdv-id-IkAfAG,sdv-id-iRnmGj,4235.73851053777,Total Loss,5,0,False,True,False
+sdv-id-BTefIW,sdv-id-LJJViu,823.6829747215045,Total Loss,158,3,True,False,False
+sdv-id-zpboUg,sdv-id-oBrVMu,2759.2815415649447,Total Loss,121,1,True,False,False
+sdv-id-ZzeMAP,sdv-id-xLFatr,1916.5917196248893,Minor,168,1,False,True,True
+sdv-id-FGyhuZ,sdv-id-IUvfux,3166.7310664556444,Major,165,2,True,False,False
+sdv-id-RXhHdX,sdv-id-iPJGRs,2936.2896740219144,Major,239,1,False,False,True
+sdv-id-OcJQpt,sdv-id-JBTJGP,1719.3085127146423,Total Loss,98,1,True,False,False
+sdv-id-UiNwyt,sdv-id-nVRLKJ,1168.4837478283066,Major,5,3,True,False,False
+sdv-id-ESKCTb,sdv-id-zbiQQs,2686.0231849989273,Total Loss,245,3,False,True,False
+sdv-id-ACMfEq,sdv-id-HRiXvk,3102.814021706685,Major,70,3,True,False,False
+sdv-id-XRCDSn,sdv-id-yfpZHt,3012.666382764107,Major,65,1,True,True,False
+sdv-id-iyKDdM,sdv-id-hCWTve,2533.731773414852,Major,345,4,False,True,False
+sdv-id-TMaEMQ,sdv-id-OiBOrD,3679.0970155655214,Major,345,2,False,True,False
+sdv-id-tDVDWX,sdv-id-jytwvN,471.5761177524241,Major,40,4,True,True,False
+sdv-id-JWmOPw,sdv-id-DqWEzP,2318.351921960704,Total Loss,175,0,False,True,False
+sdv-id-jQdEfb,sdv-id-FxQHvJ,1137.9178073048452,Total Loss,22,3,True,False,False
+sdv-id-CtSYwo,sdv-id-EzHLCt,3077.465996263582,Major,157,2,True,True,False
+sdv-id-HDklee,sdv-id-nQMlyr,323.25235259606325,Minor,345,4,False,True,False
+sdv-id-kapQNg,sdv-id-XxJBGt,2367.0681565419463,Major,57,2,True,True,False
+sdv-id-zhellg,sdv-id-BuQAhv,2472.7693269180004,Minor,247,1,False,False,False
+sdv-id-TqCMDX,sdv-id-AJMkuG,1448.4484433482687,Total Loss,146,2,False,True,False
+sdv-id-YQjjXW,sdv-id-LPNJQW,2075.025636042559,Minor,301,1,False,False,False
+sdv-id-KwjVWd,sdv-id-RAAAVn,323.25235259606325,Total Loss,212,4,True,False,True
+sdv-id-LqIHLJ,sdv-id-uTuxdJ,3545.921432845477,Total Loss,70,0,False,True,False
+sdv-id-XPMJEe,sdv-id-MTFKuF,1091.2851815925992,Major,344,4,True,False,False
+sdv-id-OSyVCE,sdv-id-zEMnkC,2794.6542169679474,Major,173,0,True,False,False
+sdv-id-bYYzMH,sdv-id-rfaigq,323.25235259606325,Minor,131,2,False,False,False
+sdv-id-hYjaJN,sdv-id-CauhOv,812.3826652293926,Major,169,3,False,True,False
+sdv-id-wpLGCE,sdv-id-XfKIRp,3607.960666226898,Major,159,0,True,True,False
+sdv-id-aKrsyK,sdv-id-LKFtlP,2049.1764033835007,Major,193,2,True,False,True
+sdv-id-yMmAJC,sdv-id-rpRTUC,3051.8938125698396,Minor,133,0,False,True,False
+sdv-id-TReRQj,sdv-id-CajbDh,323.25235259606325,Minor,272,2,False,False,True
+sdv-id-yFeDJp,sdv-id-WOwxzB,3971.266135988371,Total Loss,262,1,False,False,False
+sdv-id-WjQUtT,sdv-id-jUXlqW,1619.094300532678,Minor,110,3,False,False,False
+sdv-id-AfQhwo,sdv-id-wfBKhl,2234.2504086613,Major,202,1,True,True,True
+sdv-id-eGxDcp,sdv-id-CFFFVG,3263.4862141721596,Total Loss,41,2,False,True,False
+sdv-id-vGFwKT,sdv-id-wZtPVb,323.25235259606325,Total Loss,134,4,False,True,False
+sdv-id-xuFWmV,sdv-id-ssqjlc,1783.9968006203442,Major,246,4,True,False,False
+sdv-id-sIRyWx,sdv-id-IuToPs,1223.828491372416,Major,330,2,False,True,False
+sdv-id-lwYrlK,sdv-id-mbQGwe,1024.6176634510116,Minor,95,2,False,False,False
+sdv-id-vEPxeX,sdv-id-mPcVJX,1881.7392353029861,Minor,194,1,False,False,False
+sdv-id-nkPzid,sdv-id-KLgweL,2460.372500005988,Minor,254,1,False,True,False
+sdv-id-wqtNhR,sdv-id-dsGEOy,2259.630955136401,Major,5,3,True,True,False
+sdv-id-lbShvQ,sdv-id-IcjxAo,3046.3247519232577,Minor,141,1,False,True,False
+sdv-id-KWTNpd,sdv-id-OUTYRg,2141.6070354800213,Major,342,3,False,True,False
+sdv-id-wKWyId,sdv-id-LwWwxT,421.4195976075414,Minor,93,3,False,True,False
+sdv-id-YlYVHx,sdv-id-XMVpoZ,1300.2219766965773,Major,5,1,True,False,False
+sdv-id-DfrGJZ,sdv-id-MxyrQJ,3580.0657256211443,Total Loss,156,0,False,True,False
+sdv-id-zPJliA,sdv-id-DOwuNS,1230.8074121621967,Total Loss,264,3,False,True,True
+sdv-id-ILCMsX,sdv-id-HJTirB,592.313281630805,Minor,115,2,False,False,False
+sdv-id-XzTCUd,sdv-id-PgQZOK,2691.1495223542865,Major,5,2,True,False,False
+sdv-id-hdkQyD,sdv-id-kdZSpn,323.25235259606325,Minor,165,3,False,False,False
+sdv-id-jhQcTq,sdv-id-XSLDgB,3711.636539541082,Total Loss,95,0,False,False,False
+sdv-id-HBNncD,sdv-id-BsvyaS,877.1770990936656,Major,345,4,True,False,False
+sdv-id-BomLcx,sdv-id-zxbpzs,1870.1489444455567,Total Loss,345,4,False,True,False
+sdv-id-pZxjvN,sdv-id-wFNgOt,1947.1638959114612,Major,122,2,True,True,True
+sdv-id-EwCryn,sdv-id-fwvBHd,2035.1677523840212,Major,100,3,True,True,False
+sdv-id-UpCbRw,sdv-id-lcbKPI,3109.1442657861307,Major,122,1,True,True,False
+sdv-id-eAqryu,sdv-id-MMjANR,1529.978319344113,Total Loss,240,3,False,True,False
+sdv-id-IvXxbZ,sdv-id-tikvav,1229.0217231633187,Minor,311,3,False,True,False
+sdv-id-gEXgvD,sdv-id-QLpPVK,1854.3216377270485,Total Loss,80,1,False,True,False
+sdv-id-MdtKJS,sdv-id-xzZgPy,2201.156578529295,Total Loss,266,3,False,True,True
+sdv-id-STldRr,sdv-id-VoVMVz,2209.7932132326378,Major,208,3,True,False,False
+sdv-id-TMYqBv,sdv-id-CpsKzK,2543.02337312795,Major,195,2,True,False,False
+sdv-id-LEwjVt,sdv-id-chsNwk,877.614412991896,Minor,45,2,True,True,False
+sdv-id-JRVMWf,sdv-id-ZbpfIa,2781.894091958346,Total Loss,193,0,False,False,False
+sdv-id-UZuJDK,sdv-id-xUNRmE,1033.0022593525305,Major,142,3,False,True,False
+sdv-id-YjliCD,sdv-id-tdEzjv,1654.7572136175436,Minor,302,3,False,True,False
+sdv-id-UyvPPZ,sdv-id-wNPTgR,1778.4865848972402,Minor,62,2,False,True,False
+sdv-id-IRCFfc,sdv-id-vWQBXq,2617.950688839099,Total Loss,51,1,True,False,False
+sdv-id-AqwGaB,sdv-id-YNqtrY,323.25235259606325,Total Loss,222,4,False,False,True
+sdv-id-xHSLcW,sdv-id-PftDdj,696.2703398490778,Minor,308,3,False,False,True
+sdv-id-wGhQDd,sdv-id-VwIHlN,852.957394948038,Major,263,4,False,True,False
+sdv-id-vnanqk,sdv-id-EIQuUy,4235.73851053777,Major,111,0,True,True,False
+sdv-id-Qzfxgc,sdv-id-AkmOTC,917.7352461785666,Major,305,4,False,True,False
+sdv-id-NdTUQo,sdv-id-RZgIGo,2571.4372062964367,Major,199,2,False,False,False
+sdv-id-zfCcLc,sdv-id-xkYdqa,887.4673624220629,Minor,247,3,False,False,True
+sdv-id-ZqZROr,sdv-id-KyCIbJ,1774.8594744476848,Total Loss,217,3,False,True,False
+sdv-id-eyBCbq,sdv-id-zkwwCt,2669.6704994882966,Major,5,0,True,True,False
+sdv-id-UgmwXw,sdv-id-UztyWb,323.25235259606325,Minor,311,4,False,True,False
+sdv-id-dGNVhK,sdv-id-NeGDPK,2506.5827520601392,Major,226,3,True,True,True
+sdv-id-ZOOZMC,sdv-id-SQajym,3649.7222098476414,Total Loss,103,1,False,False,False
+sdv-id-gLCjBO,sdv-id-bnNaPM,2925.2300525260143,Total Loss,114,1,True,False,False
+sdv-id-FOTaNa,sdv-id-KcPCkx,1068.1468463389851,Major,99,3,True,False,False
+sdv-id-xItDCa,sdv-id-VUqCml,323.25235259606325,Total Loss,216,4,False,True,False
+sdv-id-BspCyl,sdv-id-dIEkOG,3280.974135610613,Total Loss,118,1,True,False,False
+sdv-id-GLIZtK,sdv-id-gITgQR,4235.73851053777,Major,208,1,True,True,False
+sdv-id-lgmEgk,sdv-id-UQZlJL,2762.389323675211,Major,125,1,True,False,False
+sdv-id-sBwchD,sdv-id-DHEjyh,3001.1287864077813,Minor,131,0,False,True,False
+sdv-id-gZWstm,sdv-id-jUdwER,684.448616461706,Major,125,3,True,True,False
+sdv-id-BGFGiS,sdv-id-RaTkMD,1910.9187655100304,Total Loss,253,2,False,True,False
+sdv-id-pSXqDi,sdv-id-vaBmsy,2531.8868426395466,Total Loss,57,1,False,True,False
+sdv-id-XspGmv,sdv-id-ahkDUj,3313.023917412671,Total Loss,5,0,True,False,False
+sdv-id-zrTafR,sdv-id-TBwALW,1936.2608968163438,Major,85,3,True,True,False
+sdv-id-qFbChm,sdv-id-XxpGYw,2107.1610584425607,Major,218,2,True,True,False
+sdv-id-WDPCji,sdv-id-bnYSaH,3346.0474369189096,Major,260,3,True,True,False
+sdv-id-FFIOBD,sdv-id-ONGIWb,1509.439023381718,Minor,130,1,False,True,False
+sdv-id-oAnKge,sdv-id-EiwEzZ,606.1451438464514,Major,5,3,True,False,False
+sdv-id-wwqgFe,sdv-id-EGlDKp,859.429266114251,Major,168,4,True,True,False
+sdv-id-pCVAmL,sdv-id-Jxnopw,1455.2888840388903,Minor,345,3,False,True,False
+sdv-id-scXnvS,sdv-id-XelCZy,3918.363235793132,Total Loss,119,0,False,True,True
+sdv-id-iWyQWT,sdv-id-iUQXMf,2169.002442227958,Major,189,4,True,True,False
+sdv-id-NAScqU,sdv-id-CbEhhm,3067.781915066269,Minor,232,1,False,True,True
+sdv-id-JowpmM,sdv-id-XUdVlM,1849.2209112234107,Major,184,4,True,False,False
+sdv-id-djzvxd,sdv-id-UEhhif,1725.9618531033166,Total Loss,9,2,False,True,False
+sdv-id-VrxZfh,sdv-id-mvTxBC,3334.8469446466597,Major,230,2,True,False,False
+sdv-id-lAVjik,sdv-id-jPaEoG,3494.601301986405,Major,172,1,True,True,False
+sdv-id-NZQgFY,sdv-id-afJPOH,2838.9383622113232,Major,209,2,True,True,False
+sdv-id-TFYzoU,sdv-id-vbSHCR,323.25235259606325,Minor,235,4,False,True,False
+sdv-id-xMWoBm,sdv-id-lfFvjT,689.816543602449,Major,318,4,True,True,False
+sdv-id-ANHyyT,sdv-id-dUNoFg,1396.0374149111954,Major,178,3,True,False,False
+sdv-id-nsPCvD,sdv-id-XKmBrG,659.2667797264671,Major,5,3,True,False,True
+sdv-id-mVPQso,sdv-id-sKYBci,2227.7352858053036,Minor,271,1,False,False,False
+sdv-id-QhHgcT,sdv-id-kztLAB,323.25235259606325,Total Loss,151,4,True,False,False
+sdv-id-UzTshI,sdv-id-ljziFj,2034.153459441986,Total Loss,158,3,False,True,True
+sdv-id-zJILlX,sdv-id-phKfLz,875.1478239336412,Minor,239,2,True,False,False
+sdv-id-AtreLt,sdv-id-kMlnye,4235.73851053777,Major,94,0,True,True,False
+sdv-id-UZtxuz,sdv-id-cHEiqd,3648.450939662053,Major,168,1,True,True,False
+sdv-id-qeUwts,sdv-id-plHYwx,1746.2190960230605,Total Loss,271,3,False,False,False
+sdv-id-DyaKfK,sdv-id-kCvpai,1776.1654044141276,Total Loss,5,1,True,True,False
+sdv-id-opKDtL,sdv-id-NYiyEb,3180.4348357433164,Total Loss,5,0,True,True,True
+sdv-id-TvQyxX,sdv-id-NPqqHj,1200.0283371492992,Major,193,4,True,True,False
+sdv-id-uQXfDW,sdv-id-eXPmiA,2798.1711803610497,Minor,251,1,False,True,False
+sdv-id-euslzc,sdv-id-ysCGqR,1352.2584731684688,Total Loss,56,3,False,True,False
+sdv-id-ZQDgNn,sdv-id-kHAiMK,2159.305235697282,Total Loss,188,1,False,False,False
+sdv-id-SEArQq,sdv-id-gJxqVD,911.3594459614338,Total Loss,179,4,True,True,True
+sdv-id-VcfUoT,sdv-id-bxBzEk,1505.7328023606667,Minor,325,2,False,False,True
+sdv-id-hQDDkm,sdv-id-UDNmWy,1353.8328738100836,Major,176,4,True,True,False
+sdv-id-RzvyKq,sdv-id-eKacwY,323.25235259606325,Total Loss,103,3,True,False,False
+sdv-id-cFWHov,sdv-id-YqRXBN,4195.190447202098,Major,96,0,True,True,False
+sdv-id-RyzCGZ,sdv-id-wrEgPP,485.1742699081492,Major,183,4,True,True,False
+sdv-id-FGfVsW,sdv-id-EsHbxC,2494.723839059195,Major,271,2,False,False,False
+sdv-id-SNvyQF,sdv-id-TbFhcf,2017.306662536093,Major,194,2,True,False,False
+sdv-id-NQwgzb,sdv-id-giPENN,2264.5588900941957,Major,87,1,True,False,False
+sdv-id-vNYWxD,sdv-id-evKeSS,1772.0362212326752,Major,243,3,False,True,False
+sdv-id-ZWodyh,sdv-id-cudbPJ,3006.734590682909,Total Loss,152,0,False,False,False
+sdv-id-pKaklt,sdv-id-uEhlJN,1111.946715902302,Total Loss,30,3,True,False,False
+sdv-id-HcgVJL,sdv-id-inCNwy,2046.9215477380792,Total Loss,254,2,True,False,False
+sdv-id-yXcPMG,sdv-id-RHxyDL,834.575688790628,Major,282,3,True,False,False
+sdv-id-CCzpTB,sdv-id-QvPMsB,2793.431716608772,Major,36,2,True,True,False
+sdv-id-yyDDcO,sdv-id-PpBofd,2478.2474960256764,Total Loss,339,1,False,True,False
+sdv-id-EbrTgD,sdv-id-MKNxhm,1853.0722211098407,Major,91,4,True,True,False
+sdv-id-cYWjWZ,sdv-id-LFgEiN,1341.1417745953638,Major,86,3,True,False,False
+sdv-id-PvKwLv,sdv-id-MzyeFb,1731.68184543771,Minor,262,0,False,False,False
+sdv-id-rOFjIx,sdv-id-jmqxRI,1887.7210706011101,Major,217,2,False,True,False
+sdv-id-JAjNLe,sdv-id-meQTsJ,323.25235259606325,Total Loss,319,4,False,False,False
+sdv-id-zJwMIS,sdv-id-YqzWHF,2460.527293820552,Major,315,1,False,False,True
+sdv-id-uvKPQe,sdv-id-vHpFXb,880.3723961073142,Total Loss,248,4,True,True,False
+sdv-id-naiQBp,sdv-id-uFrsUQ,1841.4297027064065,Major,31,3,True,False,False
+sdv-id-xDgneR,sdv-id-UnAJNK,323.25235259606325,Minor,345,4,False,True,False
+sdv-id-FGAOLZ,sdv-id-XLpQnK,2918.1995512776557,Total Loss,102,1,False,True,False
+sdv-id-CIZdDA,sdv-id-rGyMZw,1608.8444420244982,Major,87,3,True,False,False
+sdv-id-rkINJi,sdv-id-HbuxQo,2360.6462243938954,Major,127,3,True,False,False
+sdv-id-EoOcKj,sdv-id-IGIrvU,1837.349026260852,Major,5,2,True,False,False
+sdv-id-uQDTDH,sdv-id-kmvYnW,323.25235259606325,Minor,83,3,False,True,False
+sdv-id-HlYRWd,sdv-id-HIvJMV,4235.73851053777,Total Loss,182,0,False,False,False
+sdv-id-KAISqN,sdv-id-UkuvrL,2438.1893582623607,Minor,247,2,False,True,False
+sdv-id-IQmZMh,sdv-id-kvAOyh,2670.8489733670676,Minor,181,1,False,True,False
+sdv-id-uWCtWd,sdv-id-IyGAYs,323.25235259606325,Minor,32,2,True,False,False
+sdv-id-IXYbCT,sdv-id-Iicivi,323.25235259606325,Total Loss,201,3,True,False,True
+sdv-id-ZLjqyN,sdv-id-jXtgti,323.25235259606325,Minor,101,4,True,False,False
+sdv-id-LIXZVP,sdv-id-ainipN,2030.420477805175,Total Loss,167,2,True,False,False
+sdv-id-njBgcX,sdv-id-DJSYpc,502.9992100272109,Major,345,4,True,True,False
+sdv-id-ZkenJb,sdv-id-boVOtf,2610.3650452017164,Major,64,1,True,True,True
+sdv-id-rHDyXP,sdv-id-mLbDyy,2327.178936698505,Major,221,3,True,False,False
+sdv-id-zjsDFi,sdv-id-bSjBdL,2293.7307286152927,Major,41,1,True,False,False
+sdv-id-TNedjn,sdv-id-IRXEDj,4113.723767157862,Total Loss,5,0,False,True,False
+sdv-id-WNkgst,sdv-id-AdKKoZ,2213.4030697596245,Total Loss,65,1,False,False,False
+sdv-id-BOVjjd,sdv-id-XLbTAg,952.0475804514649,Major,159,4,True,False,False
+sdv-id-WVAdYB,sdv-id-MylUhI,1156.8320695798277,Major,314,3,True,False,False
+sdv-id-zBTwtx,sdv-id-yMOMuk,1249.032714462513,Total Loss,299,3,True,False,False
+sdv-id-XUzslE,sdv-id-OJrIhM,2411.6055212765064,Major,90,2,True,True,False
+sdv-id-IOcJWc,sdv-id-uEddww,577.8921360554082,Total Loss,171,4,False,True,False
+sdv-id-aCaRXD,sdv-id-ZzflFO,1869.0015728238195,Minor,345,2,False,False,False
+sdv-id-VduTOG,sdv-id-tMhWXL,1436.3252320559427,Minor,5,1,True,False,False
+sdv-id-lIyKGM,sdv-id-oDCVLn,323.25235259606325,Total Loss,345,4,False,True,False
+sdv-id-wgdnzL,sdv-id-VdfUsO,2659.710221310471,Major,294,1,True,True,False
+sdv-id-EOzbIM,sdv-id-IbHUHL,3024.9672620788288,Total Loss,69,1,False,True,False
+sdv-id-OZXqZS,sdv-id-EEACmT,2327.24469397859,Minor,178,1,False,True,False
+sdv-id-ycBLps,sdv-id-HnVZHJ,1052.9466511699488,Major,5,3,True,False,False
+sdv-id-qSaNhd,sdv-id-YmpHRl,889.1980039816381,Total Loss,83,3,False,True,False
+sdv-id-foobna,sdv-id-jtTGPW,2081.827465524381,Total Loss,5,3,True,False,False
+sdv-id-RTlLNW,sdv-id-qLLxpl,2002.2278730654957,Major,13,3,True,False,False
+sdv-id-CuqdBF,sdv-id-vrdQXq,1190.5517780201849,Minor,278,3,False,False,False
+sdv-id-awxPcB,sdv-id-Mdavhu,3583.772876945049,Major,5,1,True,True,False
+sdv-id-SqYmax,sdv-id-SChFiy,831.4693802838026,Minor,271,2,False,False,False
+sdv-id-FjNKWm,sdv-id-vbMWlt,3649.1475727475363,Minor,49,0,True,False,False
+sdv-id-MWcuCi,sdv-id-ywTAHj,1114.3977611374567,Total Loss,178,3,False,True,False
+sdv-id-GwhFBz,sdv-id-RCpEeY,2344.8337255330007,Major,108,1,True,True,False
+sdv-id-peCLqr,sdv-id-OmXclq,323.25235259606325,Major,141,4,True,False,False
+sdv-id-wInmxh,sdv-id-sUnHnc,2908.149522779715,Major,145,2,True,False,False
+sdv-id-ntpUKR,sdv-id-FGQzST,2360.136684959257,Major,118,3,True,True,False
+sdv-id-ellakI,sdv-id-ZpMIib,1201.0922044703395,Total Loss,158,3,True,False,True
+sdv-id-plyLcP,sdv-id-QZIfUf,1741.8013274584173,Minor,343,2,False,True,False
+sdv-id-MFyuIF,sdv-id-bceVlf,3054.502095258046,Major,100,1,False,True,False
+sdv-id-qyalmO,sdv-id-pUAbdd,1037.0155489398282,Minor,159,2,True,False,True
+sdv-id-IykvHu,sdv-id-MWSHHB,2904.292875622108,Minor,249,0,False,False,False
+sdv-id-ZovkhE,sdv-id-sCNdFc,1198.2798147330868,Major,108,3,True,True,False
+sdv-id-Ucxdio,sdv-id-CgPaCz,3531.5108323146937,Major,40,1,True,True,False
+sdv-id-xzUirV,sdv-id-SMpSTw,2099.5992671935614,Minor,266,3,False,False,False
+sdv-id-snXHkG,sdv-id-gvRcwo,1190.1894388150354,Total Loss,157,4,True,True,False
+sdv-id-oneali,sdv-id-nQRSLM,3210.651298569126,Total Loss,276,0,False,True,False
+sdv-id-ulNeDa,sdv-id-TRnHIp,3126.5660850361664,Major,25,1,True,False,False
+sdv-id-VEjglz,sdv-id-voaZUp,1328.7627401103969,Minor,72,3,False,False,False
+sdv-id-QwbjPL,sdv-id-rLIPsA,669.2997793719642,Total Loss,283,4,False,True,False
+sdv-id-EcLVoM,sdv-id-udbybP,323.25235259606325,Major,181,4,True,True,False
+sdv-id-gCDqYz,sdv-id-HNjhFi,2007.9442776609592,Major,98,4,True,False,False
+sdv-id-guAWpU,sdv-id-INNvUe,2621.407766509325,Total Loss,296,2,False,False,False
+sdv-id-HnQQhL,sdv-id-miHKqS,3396.8693514451998,Major,93,1,True,True,False
+sdv-id-YSqUEA,sdv-id-XcVRqO,2103.412437165562,Major,27,2,True,True,False
+sdv-id-SxpKkk,sdv-id-cGcBZi,2555.01750769554,Total Loss,5,0,True,False,False
+sdv-id-skkimK,sdv-id-gIUJMz,948.3167954376195,Major,159,4,False,True,False
+sdv-id-wljMbp,sdv-id-xNhYYo,2876.937744718153,Minor,273,1,False,True,False
+sdv-id-wySBWL,sdv-id-gtSgbr,4011.6496653663653,Total Loss,113,0,False,True,False
+sdv-id-zVOOev,sdv-id-IREyRW,2428.3094489343976,Minor,337,1,False,True,False
+sdv-id-nMhRaF,sdv-id-IIjTsQ,3052.1801169974156,Major,5,1,True,False,False
+sdv-id-tzsNxM,sdv-id-HpQBUi,2722.7864221571053,Total Loss,97,2,False,False,False
+sdv-id-jgJaCT,sdv-id-JSMZdO,1019.4738594636951,Total Loss,71,3,False,True,False
+sdv-id-shEYGC,sdv-id-TlPSLl,1985.1526079619618,Major,279,4,False,True,False
+sdv-id-YXAIzN,sdv-id-tIjdnj,1676.3557772238976,Major,264,4,True,True,False
+sdv-id-EouGOD,sdv-id-TADUCZ,2633.9324758144908,Total Loss,170,3,False,True,False
+sdv-id-GKjfCa,sdv-id-yMFnKq,1746.0536893762676,Major,303,3,True,False,False
+sdv-id-Ercszz,sdv-id-dwtsdq,323.25235259606325,Minor,345,4,False,True,False
+sdv-id-TZTFsD,sdv-id-fffzzR,777.7083890317324,Total Loss,171,3,False,True,False
+sdv-id-jyfkOn,sdv-id-tgPoVZ,1293.3116869681664,Minor,261,2,False,True,False
+sdv-id-YYjnSN,sdv-id-FiJNrp,3072.9345447095247,Total Loss,345,2,False,True,False
+sdv-id-KicdvR,sdv-id-vYhQoN,937.8091191719052,Major,116,4,True,True,False
+sdv-id-Wftzea,sdv-id-OmLjzU,2316.505580098729,Total Loss,180,2,True,False,False
+sdv-id-WItZVU,sdv-id-vDgsQC,2130.399443101438,Major,204,3,True,False,False
+sdv-id-SvHFwV,sdv-id-OYZyDk,738.5768206124364,Minor,198,4,True,False,False
+sdv-id-DPPPKD,sdv-id-cIxKmj,1817.3605306665563,Major,138,2,False,True,False
+sdv-id-IaJUaR,sdv-id-TmdUlv,1756.1242585357118,Total Loss,345,3,False,False,False
+sdv-id-bzsVaJ,sdv-id-UnegrI,1168.5311805604526,Minor,345,2,False,True,True
+sdv-id-MZzWNL,sdv-id-yTSxAj,3113.830349202616,Major,160,0,True,False,False
+sdv-id-aZnTXZ,sdv-id-cMjSqJ,2802.210225174653,Minor,167,1,False,True,True
+sdv-id-srlIQy,sdv-id-zVfojg,2299.6543452997234,Total Loss,59,2,False,True,False
+sdv-id-aSrXVR,sdv-id-CwCfQR,3112.3656115712442,Major,84,1,False,False,False
+sdv-id-WOTRGy,sdv-id-LkVeUC,3399.6340107627357,Total Loss,109,0,False,True,False
+sdv-id-TRqkCQ,sdv-id-oDtvrc,803.6990627765183,Major,67,4,True,True,False
+sdv-id-ZdIlng,sdv-id-yzxMhx,1903.4859462260197,Total Loss,77,2,True,True,False
+sdv-id-MZhcOM,sdv-id-HUdUFc,1170.532014290753,Major,5,2,True,False,False
+sdv-id-jBqegV,sdv-id-MBNEpj,4235.73851053777,Total Loss,225,0,False,False,False
+sdv-id-QVIvQx,sdv-id-EDtpXh,3869.6359460473577,Major,64,1,True,False,False
+sdv-id-GVdkRY,sdv-id-UrZDQt,2931.3617935151224,Major,5,1,True,True,False
+sdv-id-IwifoK,sdv-id-TwwHnI,2341.9158117032393,Major,29,2,True,False,False
+sdv-id-Vtsfce,sdv-id-xYjllk,3514.9818354656627,Total Loss,237,0,False,False,True
+sdv-id-XHiKAs,sdv-id-dXpLOR,2438.9289878737054,Total Loss,317,2,False,True,False
+sdv-id-NltVzj,sdv-id-TrjBBY,323.25235259606325,Major,92,4,True,False,False
+sdv-id-aJnMVB,sdv-id-OdNwFN,1903.4160819625995,Total Loss,113,2,False,True,False
+sdv-id-filmUr,sdv-id-iqKvLY,1721.7406375755243,Major,58,4,True,True,True
+sdv-id-yESQgl,sdv-id-XNlxaQ,3771.310630324632,Major,175,2,False,True,False
+sdv-id-KJNAsJ,sdv-id-ivRNVr,2259.033667926666,Minor,216,1,False,False,False
+sdv-id-ACHWLX,sdv-id-KWoitS,324.7908581241659,Minor,181,3,False,False,False
+sdv-id-TJGmNW,sdv-id-iyRWFI,2604.781919664652,Major,86,3,True,True,False
+sdv-id-WKktst,sdv-id-eTVlHK,1246.1164277635175,Major,241,3,False,True,False
+sdv-id-TKVHkw,sdv-id-ZwvehK,2031.801183660137,Total Loss,83,2,False,False,False
+sdv-id-SoTSMT,sdv-id-HAkUnI,2693.7846623452083,Major,204,3,False,True,False
+sdv-id-lhNdQS,sdv-id-KAHhwH,1605.7269750486798,Minor,320,2,False,False,False
+sdv-id-vtvJsg,sdv-id-tWcClR,1481.925403262204,Total Loss,5,4,True,False,False
+sdv-id-zyWXbx,sdv-id-poqJcL,1718.127862763915,Minor,176,1,True,False,False
+sdv-id-xABTcl,sdv-id-EGAaBT,323.25235259606325,Minor,131,4,False,False,False
+sdv-id-bLkuzE,sdv-id-kUWbwX,1133.1048240889495,Total Loss,5,4,True,True,False
+sdv-id-spymPS,sdv-id-QcqIRr,1943.0510964298387,Total Loss,237,0,False,True,True
+sdv-id-tkaeiI,sdv-id-gWhApL,2706.6971347725057,Minor,172,1,False,False,False
+sdv-id-HeILmZ,sdv-id-MosNIx,2404.3424400155995,Minor,258,2,False,False,False
+sdv-id-YMeoVu,sdv-id-bZwupE,2481.6557376335727,Major,318,2,False,True,False
+sdv-id-qmZfFm,sdv-id-oJupBh,2883.201860728348,Major,35,3,True,False,False
+sdv-id-gPMOJC,sdv-id-gfbMcM,323.25235259606325,Major,242,4,True,True,False
+sdv-id-Gvpbgo,sdv-id-lGIpbr,1732.9590947277131,Total Loss,291,3,False,True,False
+sdv-id-vtQGXw,sdv-id-jJVWns,1274.0185563346224,Major,201,3,False,True,False
+sdv-id-rSysTA,sdv-id-JTwLDc,749.0423416156345,Minor,142,3,False,False,False
+sdv-id-dFBEVU,sdv-id-XJpsdP,596.3388899759336,Total Loss,132,4,False,True,False
+sdv-id-esWmqk,sdv-id-ARmkAV,2873.949700993825,Minor,5,0,False,False,False
+sdv-id-IfhGaK,sdv-id-jtOfKw,1742.823102826858,Major,176,2,False,True,False
+sdv-id-vbJmii,sdv-id-nyjMjf,1912.4266644532663,Major,17,2,True,False,False
+sdv-id-JumsJf,sdv-id-QykvjX,2412.247673524823,Major,182,2,False,True,False
+sdv-id-AFDXvN,sdv-id-wCeDHb,2920.4646541704265,Major,154,3,True,True,False
+sdv-id-ufcfbl,sdv-id-blPgmP,2224.845444464022,Major,315,4,False,True,True
+sdv-id-cIcMhg,sdv-id-QKjNMX,1008.4267852399992,Major,5,3,True,True,False
+sdv-id-ImrDcM,sdv-id-YhRlvB,401.2304616487572,Minor,168,4,True,True,False
+sdv-id-QIAwjK,sdv-id-PskPkt,3118.854802155405,Major,177,2,True,False,False
+sdv-id-FqxCnD,sdv-id-fewpTU,1233.1196304309951,Minor,345,2,False,False,False
+sdv-id-NuDJIu,sdv-id-geiQAZ,4235.73851053777,Major,162,1,True,True,True
+sdv-id-sVfIse,sdv-id-QndRha,1260.926603304682,Minor,174,1,False,False,False
+sdv-id-sHDTGf,sdv-id-yXgMWO,771.4890529756567,Minor,159,2,False,False,True
+sdv-id-GZfFYf,sdv-id-xQmMYt,3471.1311631183357,Major,5,1,True,False,False
+sdv-id-bAZCYE,sdv-id-aCwhLR,2449.988632009599,Major,52,2,True,False,False
+sdv-id-xutKkz,sdv-id-YCMDKj,693.7008935613503,Minor,62,3,False,False,False
+sdv-id-yycvOk,sdv-id-WPbLSd,323.25235259606325,Major,334,4,False,True,False
+sdv-id-QszwbT,sdv-id-rZlaZJ,323.25235259606325,Minor,270,2,False,False,False
+sdv-id-WliMFG,sdv-id-aqCxSV,1166.0253729998653,Minor,305,3,False,False,False
+sdv-id-lsGkLu,sdv-id-CQZFgJ,323.25235259606325,Major,345,4,False,False,False
+sdv-id-eTkzUW,sdv-id-HaGRcD,1443.0577655444736,Minor,187,3,False,True,False
+sdv-id-URRCrN,sdv-id-bDiuLx,1634.066533717644,Major,61,2,True,True,False
+sdv-id-QmTtch,sdv-id-qaVXBv,1689.8136249527618,Minor,5,1,True,False,False
+sdv-id-MFacio,sdv-id-PtzFSm,1928.090560570586,Major,26,3,True,False,False
+sdv-id-lUEJBC,sdv-id-pswDST,2276.380857738288,Major,35,4,True,False,False
+sdv-id-WVvxjX,sdv-id-oUGAzA,2964.721725326909,Minor,289,1,False,False,False
+sdv-id-LMJvoX,sdv-id-ImMTMp,2285.8131907005913,Total Loss,213,2,False,True,False
+sdv-id-bRKylc,sdv-id-VooAJZ,364.2900111035294,Total Loss,180,4,False,False,False
+sdv-id-iiBYCz,sdv-id-bXxUzB,855.8276190140086,Total Loss,142,3,True,True,False
+sdv-id-fRqKOv,sdv-id-lAdnOU,803.0342313114047,Minor,147,2,False,False,False
+sdv-id-DBahbX,sdv-id-FyGKdm,1059.6242135972816,Minor,119,4,False,True,False
+sdv-id-spmsEh,sdv-id-CVcyRO,470.90508387606087,Minor,322,3,False,False,False
+sdv-id-RoxboK,sdv-id-JjlgBt,1109.6927975467684,Total Loss,66,4,True,False,False
+sdv-id-PUHWgS,sdv-id-GaPZPw,887.2534024005879,Major,219,4,True,True,False
+sdv-id-yuIrCz,sdv-id-rRaMpL,1425.2397103747362,Minor,232,1,False,False,False
+sdv-id-CmoQsw,sdv-id-PWWjzO,1041.0302960904182,Major,253,3,True,True,False
+sdv-id-BJGlzA,sdv-id-UMmXJf,2032.31885747562,Minor,345,1,False,False,False
+sdv-id-XXmhWx,sdv-id-llDXkD,2572.010502105601,Major,151,2,False,True,False
+sdv-id-KUtWws,sdv-id-uwuFne,774.6312012343162,Major,5,3,True,False,False
+sdv-id-QrMcLK,sdv-id-HoUpej,1340.75244374079,Major,61,4,True,True,False
+sdv-id-YWCvOv,sdv-id-YCUJxG,1614.300069644995,Major,5,2,True,False,False
+sdv-id-PMqMwW,sdv-id-mQONLh,866.1723893885807,Major,148,4,True,True,False
+sdv-id-SoNpAG,sdv-id-TTQGZC,2839.7554543102106,Major,5,1,True,False,False
+sdv-id-hxCJYZ,sdv-id-lUJENG,323.25235259606325,Minor,5,4,False,False,False
+sdv-id-CqPFna,sdv-id-luWgEH,2393.8570253594776,Major,54,2,True,True,False
+sdv-id-nkMaEi,sdv-id-aKdxof,3327.8252961941153,Major,208,1,True,True,False
+sdv-id-QHjVeG,sdv-id-TBwvSW,2644.288873380897,Total Loss,189,2,False,False,False
+sdv-id-IJsHyQ,sdv-id-qPQxKp,846.1972514096408,Major,336,4,False,True,False
+sdv-id-wUbEef,sdv-id-yzNVoG,1004.2337298305397,Major,158,4,True,True,False
+sdv-id-lnuIrS,sdv-id-wMovgG,3040.4485956723247,Minor,146,1,False,False,False
+sdv-id-uTRNVL,sdv-id-WQMnQl,3716.681530386301,Major,211,0,True,False,False
+sdv-id-BvHgVW,sdv-id-rLiaim,2239.960735097436,Major,32,1,True,True,False
+sdv-id-bflMCn,sdv-id-rnBNGF,2339.5709549574567,Minor,63,2,False,False,False
+sdv-id-MFUrGX,sdv-id-NsfAvw,1140.4285863181385,Major,78,3,True,False,False
+sdv-id-RnbTct,sdv-id-hzXWob,2202.470032510499,Total Loss,28,1,True,True,False
+sdv-id-aYelLi,sdv-id-StSZzL,2178.1063492416374,Major,160,3,True,True,False
+sdv-id-hdlzJa,sdv-id-uirqBr,3710.8045957715467,Major,119,1,True,True,False
+sdv-id-uaibMN,sdv-id-fiZhpW,3857.8348240858413,Major,97,0,False,True,False
+sdv-id-CyZnRZ,sdv-id-hqsWye,2340.7752910502822,Total Loss,152,2,False,True,True
+sdv-id-TchMQf,sdv-id-RFzGWG,1139.143537783182,Minor,202,4,False,False,False
+sdv-id-kDbkyb,sdv-id-AsMQyR,3094.288911254969,Major,105,1,True,True,False
+sdv-id-mEJAEB,sdv-id-DgEbXo,3724.194969784032,Minor,221,0,False,True,False
+sdv-id-GxWbRj,sdv-id-SeEaKc,1708.718482216449,Minor,139,2,False,False,False
+sdv-id-fBRqys,sdv-id-WpCINc,2035.6014998325902,Major,5,2,True,False,False
+sdv-id-lUHQKI,sdv-id-UVuiTJ,1592.03658769874,Major,215,3,False,True,False
+sdv-id-QZLYJD,sdv-id-PIOyaV,2131.371750666999,Minor,196,2,False,False,False
+sdv-id-MMSjFr,sdv-id-WBVkJg,1744.6758438478287,Major,229,2,True,True,False
+sdv-id-svnvGB,sdv-id-uXmvIY,323.25235259606325,Total Loss,187,4,False,False,False
+sdv-id-sILRwJ,sdv-id-yudfUf,323.25235259606325,Minor,24,2,True,True,False
+sdv-id-TorHLL,sdv-id-FSHRuH,3345.7300541933864,Minor,105,1,False,True,False
+sdv-id-KDylhu,sdv-id-zgWoHY,2379.579062749849,Major,162,3,True,True,False
+sdv-id-zvXXYZ,sdv-id-hjhkGp,323.25235259606325,Minor,324,3,False,True,False
+sdv-id-rrHXVv,sdv-id-KQHDRv,2984.3493209939447,Total Loss,345,2,False,True,False
+sdv-id-UcjsgC,sdv-id-igCerN,1853.350388296235,Total Loss,134,2,True,False,False
+sdv-id-FYmBwp,sdv-id-fyBCfW,1726.8810545095346,Total Loss,281,1,True,False,False
+sdv-id-jdcqyG,sdv-id-GFwqDP,3521.133934990411,Major,273,1,False,True,False
+sdv-id-qhVXzH,sdv-id-oIDOCn,2078.139974141925,Major,5,2,True,True,False
+sdv-id-dyCJRm,sdv-id-DLxYsF,809.0073297161628,Major,37,4,True,False,False
+sdv-id-SnxAhN,sdv-id-hDQeeK,2309.30169331022,Major,61,3,True,True,False
+sdv-id-xoOkhy,sdv-id-kwTPvb,343.49330878236515,Major,171,4,False,False,False
+sdv-id-saTWyh,sdv-id-QeLbnH,1137.954567243081,Total Loss,28,2,True,False,False
